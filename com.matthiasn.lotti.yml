@@ -130,7 +130,8 @@ modules:
   - pubspec-sources.json
   - type: git
     url: https://github.com/matthiasn/lotti
-    commit: 0b91c4c70f37a86981b108920f3bc3195eaba8c1
+    disable-lfs: true
+    commit: 2cee90070cf1dc17fff40895581be5d38c920a13
   - type: script
     dest-filename: lotti-wrapper.sh
     commands:
@@ -166,7 +167,7 @@ modules:
     dest: ./build/linux/arm64/release/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src
   - cargo-sources.json
   - type: file
-    path: flutter-sdk-3.38.1.json
+    path: flutter-sdk-3.38.3.json
   - type: patch
     path: sqlite3_flutter_libs/0.5.39-CMakeLists.txt.patch
     dest: .pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.40
@@ -180,4 +181,4 @@ modules:
     path: cargokit/run_build_tool.sh.patch
     dest: .pub-cache/hosted/pub.dev/irondash_engine_context-0.5.5/cargokit
   modules:
-  - flutter-sdk-3.38.1.json
+  - flutter-sdk-3.38.3.json
