@@ -131,7 +131,7 @@ modules:
   - type: git
     url: https://github.com/matthiasn/lotti
     disable-lfs: true
-    commit: fb7e704bc53283efbd6a1f1b291baddaf1656bf5
+    commit: 53f34dc3b23ab6ce50e2d98b414d3c6b4618ce09
   - type: script
     dest-filename: lotti-wrapper.sh
     commands:
@@ -170,7 +170,7 @@ modules:
     path: flutter-sdk-3.38.3.json
   - type: patch
     path: sqlite3_flutter_libs/0.5.39-CMakeLists.txt.patch
-    dest: .pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.40
+    dest: .pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.41
   - type: patch
     path: cargokit/run_build_tool.sh.patch
     dest: .pub-cache/hosted/pub.dev/super_native_extensions-0.9.1/cargokit
