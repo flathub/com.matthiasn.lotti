@@ -131,7 +131,7 @@ modules:
   - type: git
     url: https://github.com/matthiasn/lotti
     disable-lfs: true
-    commit: fb7e704bc53283efbd6a1f1b291baddaf1656bf5
+    commit: 2f99f41363cac48f79650093b044822aaec9588e
   - type: script
     dest-filename: lotti-wrapper.sh
     commands:
@@ -153,24 +153,16 @@ modules:
     sha256: 2b1bff6f717f9725c70bf8d79e4786da13de8a270059e4ba0bdd262ae7be46eb
     dest: ./build/linux/arm64/release
     dest-filename: mimalloc-2.1.2.tar.gz
+  - cargo-sources.json
+  - type: file
+    path: flutter-sdk-3.38.5.json
   - type: file
     only-arches:
     - x86_64
-    url: https://sqlite.org/2025/sqlite-autoconf-3500400.tar.gz
-    sha256: a3db587a1b92ee5ddac2f66b3edb41b26f9c867275782d46c3a088977d6a5b18
+    url: https://www.sqlite.org/2025/sqlite-autoconf-3510100.tar.gz
+    sha256: 4f2445cd70479724d32ad015ec7fd37fbb6f6130013bd4bfbc80c32beb42b7e0
     dest: ./build/linux/x64/release/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src
-  - type: file
-    only-arches:
-    - aarch64
-    url: https://sqlite.org/2025/sqlite-autoconf-3500400.tar.gz
-    sha256: a3db587a1b92ee5ddac2f66b3edb41b26f9c867275782d46c3a088977d6a5b18
-    dest: ./build/linux/arm64/release/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src
-  - cargo-sources.json
-  - type: file
-    path: flutter-sdk-3.38.3.json
-  - type: patch
-    path: sqlite3_flutter_libs/0.5.39-CMakeLists.txt.patch
-    dest: .pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.40
+    dest-filename: sqlite-autoconf-3510100.tar.gz
   - type: patch
     path: cargokit/run_build_tool.sh.patch
     dest: .pub-cache/hosted/pub.dev/super_native_extensions-0.9.1/cargokit
@@ -180,5 +172,15 @@ modules:
   - type: patch
     path: cargokit/run_build_tool.sh.patch
     dest: .pub-cache/hosted/pub.dev/irondash_engine_context-0.5.5/cargokit
+  - type: file
+    only-arches:
+    - aarch64
+    url: https://www.sqlite.org/2025/sqlite-autoconf-3510100.tar.gz
+    sha256: 4f2445cd70479724d32ad015ec7fd37fbb6f6130013bd4bfbc80c32beb42b7e0
+    dest: ./build/linux/arm64/release/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src
+    dest-filename: sqlite-autoconf-3510100.tar.gz
+  - type: patch
+    path: sqlite3_flutter_libs/0.5.41-CMakeLists.txt.patch
+    dest: .pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.41
   modules:
-  - flutter-sdk-3.38.3.json
+  - flutter-sdk-3.38.5.json
