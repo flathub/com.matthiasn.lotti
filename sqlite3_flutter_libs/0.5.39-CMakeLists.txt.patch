@@ -3,15 +3,15 @@
 @@ -14,12 +14,14 @@
    FetchContent_Declare(
      sqlite3
-     URL https://sqlite.org/2025/sqlite-autoconf-3510100.tar.gz
-+    URL_HASH SHA256=4f2445cd70479724d32ad015ec7fd37fbb6f6130013bd4bfbc80c32beb42b7e0
+     URL https://sqlite.org/2025/sqlite-autoconf-3500400.tar.gz
++    URL_HASH SHA256=a3db587a1b92ee5ddac2f66b3edb41b26f9c867275782d46c3a088977d6a5b18
      DOWNLOAD_EXTRACT_TIMESTAMP NEW
    )
  else()
    FetchContent_Declare(
      sqlite3
-     URL https://sqlite.org/2025/sqlite-autoconf-3510100.tar.gz
-+    URL_HASH SHA256=4f2445cd70479724d32ad015ec7fd37fbb6f6130013bd4bfbc80c32beb42b7e0
+     URL https://sqlite.org/2025/sqlite-autoconf-3500400.tar.gz
++    URL_HASH SHA256=a3db587a1b92ee5ddac2f66b3edb41b26f9c867275782d46c3a088977d6a5b18
    )
  endif()
  FetchContent_MakeAvailable(sqlite3)
