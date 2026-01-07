@@ -156,19 +156,21 @@
         },
         {
             "type": "patch",
-            "path": "flutter-shared.sh.patch"
+            "path": "../patches/flutter/shared.sh.patch"
+        },
+        {
+            "type": "script",
+            "dest": "flutter/bin",
+            "dest-filename": "setup-flutter.sh",
+            "commands": [
+                "flutter pub get --offline $@"
+            ]
         },
         {
             "type": "file",
             "url": "https://storage.googleapis.com/flutter_infra_release/flutter/1527ae0ec577a4ef50e65f6fefcfc1326707d9bf/engine_stamp.json",
             "sha256": "5092c8472c11460f4b34072b9c3f8bc2840b9827499af36cc8e68b134aab1608",
             "dest": "flutter/bin/cache"
-        },
-        {
-            "type": "file",
-            "path": "setup-flutter.sh",
-            "dest": "flutter/bin",
-            "dest-filename": "setup-flutter.sh"
         }
     ]
 }
