@@ -103,22 +103,16 @@ modules:
       - flutter build linux --release --no-pub --verbose
       - "arch=\"x64\"\nif [ \"${FLATPAK_ARCH}\" = \"aarch64\" ]; then\n  arch=\"arm64\"\
         \nfi\ncp -r build/linux/${arch}/release/bundle/* /app/\n"
-      - find /app -name "*1024*" -type f -delete
       - chmod +x /app/lotti
-      - install -D linux/com.matthiasn.lotti.desktop /app/share/applications/com.matthiasn.lotti.desktop
-      - install -D flatpak/com.matthiasn.lotti.metainfo.xml /app/share/metainfo/com.matthiasn.lotti.metainfo.xml
-      - install -D lotti-wrapper.sh /app/bin/lotti
-      - install -D flatpak/app_icon_512.png /app/share/icons/hicolor/512x512/apps/com.matthiasn.lotti.png
-      - install -D flatpak/app_icon_256.png /app/share/icons/hicolor/256x256/apps/com.matthiasn.lotti.png
-      - install -D flatpak/app_icon_128.png /app/share/icons/hicolor/128x128/apps/com.matthiasn.lotti.png
-      - install -D flatpak/app_icon_64.png /app/share/icons/hicolor/64x64/apps/com.matthiasn.lotti.png
-      - install -D flatpak/app_icon_48.png /app/share/icons/hicolor/48x48/apps/com.matthiasn.lotti.png
-      - install -D flatpak/app_icon_32.png /app/share/icons/hicolor/32x32/apps/com.matthiasn.lotti.png
-      - install -D flatpak/app_icon_16.png /app/share/icons/hicolor/16x16/apps/com.matthiasn.lotti.png
+      - "install -D linux/com.matthiasn.lotti.desktop /app/share/applications/com.matthiasn.lotti.desktop\n\
+        install -D flatpak/com.matthiasn.lotti.metainfo.xml /app/share/metainfo/com.matthiasn.lotti.metainfo.xml\n\
+        install -D lotti-wrapper.sh /app/bin/lotti\nfor size in 512 256 128 64 48\
+        \ 32 16; do\n  install -D \"flatpak/app_icon_${size}.png\" \"/app/share/icons/hicolor/${size}x${size}/apps/com.matthiasn.lotti.png\"\
+        \ndone\n"
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: dd751465d9383ec3cfafeeae5537453246014fa8
+        commit: 119184f93791268ae34c191588a739f72afcf63a
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
