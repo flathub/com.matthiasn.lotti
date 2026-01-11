@@ -17,6 +17,8 @@ finish-args:
   - --filesystem=xdg-documents/Lotti:create
   - --filesystem=xdg-pictures:ro
   - --filesystem=xdg-download/Lotti:create
+  - --talk-name=org.freedesktop.secrets
+  - --env=XCURSOR_PATH=/run/host/user-share/icons:/run/host/share/icons
 modules:
   - name: python3-jinja2
     buildsystem: simple
@@ -112,13 +114,11 @@ modules:
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: 1b591f8b7efd49d02214ef4b9244cbda6b92b2f4
+        commit: ec20c573a3147a0d5d68fcb7bbd76023bf6727f2
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
         commands:
-          - export FONTCONFIG_PATH=/app/etc/fonts
-          - export FONTCONFIG_FILE=/app/etc/fonts/fonts.conf
           - cd /app
           - exec ./lotti "$@"
       - generated/sources/cargo.json
