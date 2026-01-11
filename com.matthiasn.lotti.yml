@@ -112,7 +112,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: 0fd6f66f7e8bbd2e5fe2dcd60458cbdb974528cb
+        commit: fe57a22c0c2ce993b478c9eb166e5388d431a6e7
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
@@ -125,4 +125,4 @@ modules:
       - generated/sources/pubspec.json
     modules:
       - generated/modules/rustup-1.91.1.json
-      - generated/modules/flutter-sdk-3.38.5.json
+      - generated/modules/flutter-sdk-3.38.6.json
