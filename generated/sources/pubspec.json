@@ -7286,5 +7286,28 @@
         "type": "patch",
         "path": "generated/patches/cargokit/run_build_tool.sh.patch",
         "dest": ".pub-cache/hosted/pub.dev/super_native_extensions-0.9.1/cargokit"
+    },
+    {
+        "type": "file",
+        "only-arches": [
+            "x86_64"
+        ],
+        "url": "https://github.com/objectbox/objectbox-c/releases/download/v5.3.1/objectbox-linux-x64.tar.gz",
+        "sha256": "d1a22f5a43e8aa438c987524c2ef97f5d179acb991b0f63ab03a30c33b882368",
+        "dest": "./build/linux/x64/release/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src"
+    },
+    {
+        "type": "file",
+        "only-arches": [
+            "aarch64"
+        ],
+        "url": "https://github.com/objectbox/objectbox-c/releases/download/v5.3.1/objectbox-linux-aarch64.tar.gz",
+        "sha256": "948fe456904b8b0ae6b22a26a9f460734dc3c2ec58750df3a329ccae1ebe035d",
+        "dest": "./build/linux/arm64/release/_deps/objectbox-download-subbuild/objectbox-download-populate-prefix/src"
+    },
+    {
+        "type": "patch",
+        "path": "generated/patches/objectbox_flutter_libs/5.3.1-CMakeLists.txt.patch",
+        "dest": ".pub-cache/hosted/pub.dev/objectbox_flutter_libs-5.3.1"
     }
 ]
