@@ -7264,8 +7264,8 @@
         "only-arches": [
             "x86_64"
         ],
-        "url": "https://sqlite.org/2025/sqlite-autoconf-3510100.tar.gz",
-        "sha256": "4f2445cd70479724d32ad015ec7fd37fbb6f6130013bd4bfbc80c32beb42b7e0",
+        "url": "https://sqlite.org/2026/sqlite-autoconf-3520000.tar.gz",
+        "sha256": "f6b50b0c103392af32a8be15b2b9d25959de9a00a70c3979128aafeaa5338b3f",
         "dest": "./build/linux/x64/release/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src"
     },
     {
@@ -7273,13 +7273,13 @@
         "only-arches": [
             "aarch64"
         ],
-        "url": "https://sqlite.org/2025/sqlite-autoconf-3510100.tar.gz",
-        "sha256": "4f2445cd70479724d32ad015ec7fd37fbb6f6130013bd4bfbc80c32beb42b7e0",
+        "url": "https://sqlite.org/2026/sqlite-autoconf-3520000.tar.gz",
+        "sha256": "f6b50b0c103392af32a8be15b2b9d25959de9a00a70c3979128aafeaa5338b3f",
         "dest": "./build/linux/arm64/release/_deps/sqlite3-subbuild/sqlite3-populate-prefix/src"
     },
     {
         "type": "patch",
-        "path": "generated/patches/sqlite3_flutter_libs/0.5.41-CMakeLists.txt.patch",
+        "path": "generated/patches/sqlite3_flutter_libs/0.5.42-CMakeLists.txt.patch",
         "dest": ".pub-cache/hosted/pub.dev/sqlite3_flutter_libs-0.5.42"
     },
     {
