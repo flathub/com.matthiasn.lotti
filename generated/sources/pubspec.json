@@ -2142,20 +2142,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/geoclue-0.1.1.tar.gz",
-        "sha256": "c2a998c77474fc57aa00c6baa2928e58f4b267649057a1c76738656e9dbd2a7f",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/geoclue-0.1.1"
-    },
-    {
-        "type": "inline",
-        "contents": "c2a998c77474fc57aa00c6baa2928e58f4b267649057a1c76738656e9dbd2a7f",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "geoclue-0.1.1.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/get_it-8.3.0.tar.gz",
         "sha256": "ae78de7c3f2304b8d81f2bb6e320833e5e81de942188542328f074978cc0efa9",
         "strip-components": 0,
