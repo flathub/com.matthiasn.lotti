@@ -100,16 +100,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/arb_utils-0.10.1.tar.gz",
-        "sha256": "47a7ea531bdf6a04551c8f317d32389d7d32c614c1ef5f9e163da86bc0f3c85c",
+        "url": "https://pub.dev/api/archives/arb_utils-0.11.0.tar.gz",
+        "sha256": "93c12844693033d52b6f18bad926bdd3eb7a71dcbb72421c65c9ddcffe35764a",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/arb_utils-0.10.1"
+        "dest": ".pub-cache/hosted/pub.dev/arb_utils-0.11.0"
     },
     {
         "type": "inline",
-        "contents": "47a7ea531bdf6a04551c8f317d32389d7d32c614c1ef5f9e163da86bc0f3c85c",
+        "contents": "93c12844693033d52b6f18bad926bdd3eb7a71dcbb72421c65c9ddcffe35764a",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "arb_utils-0.10.1.sha256"
+        "dest-filename": "arb_utils-0.11.0.sha256"
     },
     {
         "type": "archive",
@@ -464,16 +464,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/calendar_view-1.4.0.tar.gz",
-        "sha256": "94b5ccc06f6ab11fa3e40eda19f6f925bc49a355dfad8cfafece3bad54ce9773",
+        "url": "https://pub.dev/api/archives/calendar_view-2.0.0.tar.gz",
+        "sha256": "116b8797f4d1339883daad31e2a193f5759d6e6778291763ea9c9e49ccd124cd",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/calendar_view-1.4.0"
+        "dest": ".pub-cache/hosted/pub.dev/calendar_view-2.0.0"
     },
     {
         "type": "inline",
-        "contents": "94b5ccc06f6ab11fa3e40eda19f6f925bc49a355dfad8cfafece3bad54ce9773",
+        "contents": "116b8797f4d1339883daad31e2a193f5759d6e6778291763ea9c9e49ccd124cd",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "calendar_view-1.4.0.sha256"
+        "dest-filename": "calendar_view-2.0.0.sha256"
     },
     {
         "type": "archive",
@@ -1666,58 +1666,58 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_local_notifications-19.5.0.tar.gz",
-        "sha256": "19ffb0a8bb7407875555e5e98d7343a633bb73707bae6c6a5f37c90014077875",
+        "url": "https://pub.dev/api/archives/flutter_local_notifications-21.0.0.tar.gz",
+        "sha256": "0d9035862236fe38250fe1644d7ed3b8254e34a21b2c837c9f539fbb3bba5ef1",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications-19.5.0"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications-21.0.0"
     },
     {
         "type": "inline",
-        "contents": "19ffb0a8bb7407875555e5e98d7343a633bb73707bae6c6a5f37c90014077875",
+        "contents": "0d9035862236fe38250fe1644d7ed3b8254e34a21b2c837c9f539fbb3bba5ef1",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_local_notifications-19.5.0.sha256"
+        "dest-filename": "flutter_local_notifications-21.0.0.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_local_notifications_linux-6.0.0.tar.gz",
-        "sha256": "e3c277b2daab8e36ac5a6820536668d07e83851aeeb79c446e525a70710770a5",
+        "url": "https://pub.dev/api/archives/flutter_local_notifications_linux-8.0.0.tar.gz",
+        "sha256": "e0f25e243c6c44c825bbbc6b2b2e76f7d9222362adcfe9fd780bf01923c840bd",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications_linux-6.0.0"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications_linux-8.0.0"
     },
     {
         "type": "inline",
-        "contents": "e3c277b2daab8e36ac5a6820536668d07e83851aeeb79c446e525a70710770a5",
+        "contents": "e0f25e243c6c44c825bbbc6b2b2e76f7d9222362adcfe9fd780bf01923c840bd",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_local_notifications_linux-6.0.0.sha256"
+        "dest-filename": "flutter_local_notifications_linux-8.0.0.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_local_notifications_platform_interface-9.1.0.tar.gz",
-        "sha256": "277d25d960c15674ce78ca97f57d0bae2ee401c844b6ac80fcd972a9c99d09fe",
+        "url": "https://pub.dev/api/archives/flutter_local_notifications_platform_interface-11.0.0.tar.gz",
+        "sha256": "e7db3d5b49c2b7ecc68deba4aaaa67a348f92ee0fef34c8e4b4459dbef0d7307",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications_platform_interface-9.1.0"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications_platform_interface-11.0.0"
     },
     {
         "type": "inline",
-        "contents": "277d25d960c15674ce78ca97f57d0bae2ee401c844b6ac80fcd972a9c99d09fe",
+        "contents": "e7db3d5b49c2b7ecc68deba4aaaa67a348f92ee0fef34c8e4b4459dbef0d7307",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_local_notifications_platform_interface-9.1.0.sha256"
+        "dest-filename": "flutter_local_notifications_platform_interface-11.0.0.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_local_notifications_windows-1.0.3.tar.gz",
-        "sha256": "8d658f0d367c48bd420e7cf2d26655e2d1130147bca1eea917e576ca76668aaf",
+        "url": "https://pub.dev/api/archives/flutter_local_notifications_windows-3.0.0.tar.gz",
+        "sha256": "3a2654ba104fbb52c618ebed9def24ef270228470718c43b3a6afcd5c81bef0c",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications_windows-1.0.3"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications_windows-3.0.0"
     },
     {
         "type": "inline",
-        "contents": "8d658f0d367c48bd420e7cf2d26655e2d1130147bca1eea917e576ca76668aaf",
+        "contents": "3a2654ba104fbb52c618ebed9def24ef270228470718c43b3a6afcd5c81bef0c",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_local_notifications_windows-1.0.3.sha256"
+        "dest-filename": "flutter_local_notifications_windows-3.0.0.sha256"
     },
     {
         "type": "archive",
@@ -2128,16 +2128,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/genui-0.8.0.tar.gz",
-        "sha256": "95321aabf73fc1a2258546f1e66aef8cd6d6e52682541b0b4383298cdfa2ce5e",
+        "url": "https://pub.dev/api/archives/genui-0.9.0.tar.gz",
+        "sha256": "be0d9d689e15991c43ef6f1f6aa45a3bdea1ffe2a2259ac0ab38881cf8f346dd",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/genui-0.8.0"
+        "dest": ".pub-cache/hosted/pub.dev/genui-0.9.0"
     },
     {
         "type": "inline",
-        "contents": "95321aabf73fc1a2258546f1e66aef8cd6d6e52682541b0b4383298cdfa2ce5e",
+        "contents": "be0d9d689e15991c43ef6f1f6aa45a3bdea1ffe2a2259ac0ab38881cf8f346dd",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "genui-0.8.0.sha256"
+        "dest-filename": "genui-0.9.0.sha256"
     },
     {
         "type": "archive",
@@ -5179,16 +5179,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/timezone-0.10.1.tar.gz",
-        "sha256": "dd14a3b83cfd7cb19e7888f1cbc20f258b8d71b54c06f79ac585f14093a287d1",
+        "url": "https://pub.dev/api/archives/timezone-0.11.0.tar.gz",
+        "sha256": "784a5e34d2eb62e1326f24d6f600aaaee452eb8ca8ef2f384a59244e292d158b",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/timezone-0.10.1"
+        "dest": ".pub-cache/hosted/pub.dev/timezone-0.11.0"
     },
     {
         "type": "inline",
-        "contents": "dd14a3b83cfd7cb19e7888f1cbc20f258b8d71b54c06f79ac585f14093a287d1",
+        "contents": "784a5e34d2eb62e1326f24d6f600aaaee452eb8ca8ef2f384a59244e292d158b",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "timezone-0.10.1.sha256"
+        "dest-filename": "timezone-0.11.0.sha256"
     },
     {
         "type": "archive",
@@ -5753,16 +5753,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/wechat_assets_picker-10.1.1.tar.gz",
-        "sha256": "58d15c4369596f62d9c6e4202fc7ccf0b863a1adf7893989d3982df9716eb5e5",
+        "url": "https://pub.dev/api/archives/wechat_assets_picker-10.1.2.tar.gz",
+        "sha256": "e2e447c12a6254e523b83415deb0b77953a96eafcb4586901b7d93039d2ca9d6",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/wechat_assets_picker-10.1.1"
+        "dest": ".pub-cache/hosted/pub.dev/wechat_assets_picker-10.1.2"
     },
     {
         "type": "inline",
-        "contents": "58d15c4369596f62d9c6e4202fc7ccf0b863a1adf7893989d3982df9716eb5e5",
+        "contents": "e2e447c12a6254e523b83415deb0b77953a96eafcb4586901b7d93039d2ca9d6",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "wechat_assets_picker-10.1.1.sha256"
+        "dest-filename": "wechat_assets_picker-10.1.2.sha256"
     },
     {
         "type": "archive",
