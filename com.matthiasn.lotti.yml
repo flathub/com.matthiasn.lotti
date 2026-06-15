@@ -88,6 +88,23 @@ modules:
       - type: archive
         url: https://github.com/kupferlauncher/keybinder/releases/download/keybinder-3.0-v0.3.2/keybinder-3.0-0.3.2.tar.gz
         sha256: e6e3de4e1f3b201814a956ab8f16dfc8a262db1937ff1eee4d855365398c6020
+  - name: onnxruntime
+    buildsystem: simple
+    build-commands:
+      - install -d /app/lib /app/include
+      - cp -a lib/. /app/lib/
+      - cp -a include/. /app/include/
+    sources:
+      - type: archive
+        only-arches:
+          - x86_64
+        url: https://github.com/microsoft/onnxruntime/releases/download/v1.22.0/onnxruntime-linux-x64-1.22.0.tgz
+        sha256: 8344d55f93d5bc5021ce342db50f62079daf39aaafb5d311a451846228be49b3
+      - type: archive
+        only-arches:
+          - aarch64
+        url: https://github.com/microsoft/onnxruntime/releases/download/v1.22.0/onnxruntime-linux-aarch64-1.22.0.tgz
+        sha256: bb76395092d150b52c7092dc6b8f2fe4d80f0f3bf0416d2f269193e347e24702
   - name: lotti
     buildsystem: simple
     build-options:
@@ -98,9 +115,10 @@ modules:
         CARGO_HOME: /run/build/lotti/cargo
         RUSTUP_HOME: /var/lib/rustup
         FLUTTER_SUPPRESS_ANALYTICS: 'true'
+        CMAKE_PREFIX_PATH: /app
+        ONNXRUNTIME_ROOT_DIR: /app
     build-commands:
       - setup-flutter.sh
-      - export CMAKE_PREFIX_PATH=/app:$CMAKE_PREFIX_PATH
       - flutter build linux --release --no-pub --verbose
       - "arch=\"x64\"\nif [ \"${FLATPAK_ARCH}\" = \"aarch64\" ]; then\n  arch=\"arm64\"\
         \nfi\ncp -r build/linux/${arch}/release/bundle/* /app/\n"
@@ -113,7 +131,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: 815f8d7ae31b5da73fdfc20b8da2a9947c068f45
+        commit: 20c1b30a6691402e2031eae8b8dd10ecc66b07b8
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
