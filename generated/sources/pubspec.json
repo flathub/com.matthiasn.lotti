@@ -1023,20 +1023,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/desktop_drop-0.7.1.tar.gz",
-        "sha256": "aa1e797255bfbc76f9eb5aa4f61e5b68dbf69962ab1be6495816d2f251bc0d1f",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/desktop_drop-0.7.1"
-    },
-    {
-        "type": "inline",
-        "contents": "aa1e797255bfbc76f9eb5aa4f61e5b68dbf69962ab1be6495816d2f251bc0d1f",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "desktop_drop-0.7.1.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/device_frame_plus-1.5.0.tar.gz",
         "sha256": "ccc94abccd4d9f0a9f19ef239001b3a59896e678ad42601371d7065889f2bf78",
         "strip-components": 0,
@@ -1275,6 +1261,48 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/file_selector-1.1.0.tar.gz",
+        "sha256": "bd15e43e9268db636b53eeaca9f56324d1622af30e5c34d6e267649758c84d9a",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/file_selector-1.1.0"
+    },
+    {
+        "type": "inline",
+        "contents": "bd15e43e9268db636b53eeaca9f56324d1622af30e5c34d6e267649758c84d9a",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "file_selector-1.1.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/file_selector_android-0.5.2+8.tar.gz",
+        "sha256": "6a26687fa65cbc28a5345c7ae6f227e89f0b47740978a4c475b1a625da7a331b",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/file_selector_android-0.5.2+8"
+    },
+    {
+        "type": "inline",
+        "contents": "6a26687fa65cbc28a5345c7ae6f227e89f0b47740978a4c475b1a625da7a331b",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "file_selector_android-0.5.2+8.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/file_selector_ios-0.5.3+5.tar.gz",
+        "sha256": "e2ecf2885c121691ce13b60db3508f53c01f869fb6e8dc5c1cfa771e4c46aeca",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/file_selector_ios-0.5.3+5"
+    },
+    {
+        "type": "inline",
+        "contents": "e2ecf2885c121691ce13b60db3508f53c01f869fb6e8dc5c1cfa771e4c46aeca",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "file_selector_ios-0.5.3+5.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/file_selector_linux-0.9.4.tar.gz",
         "sha256": "2567f398e06ac72dcf2e98a0c95df2a9edd03c2c2e0cacd4780f20cdf56263a0",
         "strip-components": 0,
@@ -1313,6 +1341,20 @@
         "contents": "35e0bd61ebcdb91a3505813b055b09b79dfdc7d0aee9c09a7ba59ae4bb13dc85",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "file_selector_platform_interface-2.7.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/file_selector_web-0.9.5.tar.gz",
+        "sha256": "73181fbc5257776d8ecaa6a94ab3c8e920ad143b9132a6d984a9271dfc6928d3",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/file_selector_web-0.9.5"
+    },
+    {
+        "type": "inline",
+        "contents": "73181fbc5257776d8ecaa6a94ab3c8e920ad143b9132a6d984a9271dfc6928d3",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "file_selector_web-0.9.5.sha256"
     },
     {
         "type": "archive",
