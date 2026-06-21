@@ -3108,16 +3108,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/matrix-7.2.3.tar.gz",
-        "sha256": "e52477dcc118fe89b7f40123c2dc9fe681fee0529738007c8ba82ccaf9fb6993",
+        "url": "https://pub.dev/api/archives/matrix-7.3.0.tar.gz",
+        "sha256": "c3c7168f79eb52dbf72cbe97ddd11d0f26bfbef324d669759abc86d8abdb4231",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/matrix-7.2.3"
+        "dest": ".pub-cache/hosted/pub.dev/matrix-7.3.0"
     },
     {
         "type": "inline",
-        "contents": "e52477dcc118fe89b7f40123c2dc9fe681fee0529738007c8ba82ccaf9fb6993",
+        "contents": "c3c7168f79eb52dbf72cbe97ddd11d0f26bfbef324d669759abc86d8abdb4231",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "matrix-7.2.3.sha256"
+        "dest-filename": "matrix-7.3.0.sha256"
     },
     {
         "type": "archive",
@@ -3542,16 +3542,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/path_provider-2.1.5.tar.gz",
-        "sha256": "50c5dd5b6e1aaf6fb3a78b33f6aa3afca52bf903a8a5298f53101fdaee55bbcd",
+        "url": "https://pub.dev/api/archives/path_provider-2.1.6.tar.gz",
+        "sha256": "a7f4874f987173da295a61c181b8ee71dab59b332a486b391babf26a1b884825",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/path_provider-2.1.5"
+        "dest": ".pub-cache/hosted/pub.dev/path_provider-2.1.6"
     },
     {
         "type": "inline",
-        "contents": "50c5dd5b6e1aaf6fb3a78b33f6aa3afca52bf903a8a5298f53101fdaee55bbcd",
+        "contents": "a7f4874f987173da295a61c181b8ee71dab59b332a486b391babf26a1b884825",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "path_provider-2.1.5.sha256"
+        "dest-filename": "path_provider-2.1.6.sha256"
     },
     {
         "type": "archive",
@@ -3598,16 +3598,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/path_provider_platform_interface-2.1.2.tar.gz",
-        "sha256": "88f5779f72ba699763fa3a3b06aa4bf6de76c8e5de842cf6f29e2e06476c2334",
+        "url": "https://pub.dev/api/archives/path_provider_platform_interface-2.1.3.tar.gz",
+        "sha256": "484838772624c3a4b94f1e44a3e19897fee738f2d5c4ce448443b0417f7c9dda",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.2"
+        "dest": ".pub-cache/hosted/pub.dev/path_provider_platform_interface-2.1.3"
     },
     {
         "type": "inline",
-        "contents": "88f5779f72ba699763fa3a3b06aa4bf6de76c8e5de842cf6f29e2e06476c2334",
+        "contents": "484838772624c3a4b94f1e44a3e19897fee738f2d5c4ce448443b0417f7c9dda",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "path_provider_platform_interface-2.1.2.sha256"
+        "dest-filename": "path_provider_platform_interface-2.1.3.sha256"
     },
     {
         "type": "archive",
@@ -5515,16 +5515,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/vector_graphics_compiler-1.2.5.tar.gz",
-        "sha256": "7ee12e6dffe0fc8e755179d6d91b3b34f5924223fc104d85572ef9180d73d172",
+        "url": "https://pub.dev/api/archives/vector_graphics_compiler-1.2.6.tar.gz",
+        "sha256": "142a9146f447d15b10bdc00e21d5f4d83e5b32bb5f8f8f5a04c75311344923a3",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/vector_graphics_compiler-1.2.5"
+        "dest": ".pub-cache/hosted/pub.dev/vector_graphics_compiler-1.2.6"
     },
     {
         "type": "inline",
-        "contents": "7ee12e6dffe0fc8e755179d6d91b3b34f5924223fc104d85572ef9180d73d172",
+        "contents": "142a9146f447d15b10bdc00e21d5f4d83e5b32bb5f8f8f5a04c75311344923a3",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "vector_graphics_compiler-1.2.5.sha256"
+        "dest-filename": "vector_graphics_compiler-1.2.6.sha256"
     },
     {
         "type": "archive",
@@ -5543,16 +5543,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/very_good_analysis-10.2.0.tar.gz",
-        "sha256": "d1cb1d66a5aae2c702d68caca6c8347306d35e728fd94555fa21fa0448a972e0",
+        "url": "https://pub.dev/api/archives/very_good_analysis-10.3.0.tar.gz",
+        "sha256": "481af67ab5877af20325251dc215a4ebac7666a1c8cf09198ffd457bc612b33d",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/very_good_analysis-10.2.0"
+        "dest": ".pub-cache/hosted/pub.dev/very_good_analysis-10.3.0"
     },
     {
         "type": "inline",
-        "contents": "d1cb1d66a5aae2c702d68caca6c8347306d35e728fd94555fa21fa0448a972e0",
+        "contents": "481af67ab5877af20325251dc215a4ebac7666a1c8cf09198ffd457bc612b33d",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "very_good_analysis-10.2.0.sha256"
+        "dest-filename": "very_good_analysis-10.3.0.sha256"
     },
     {
         "type": "archive",
