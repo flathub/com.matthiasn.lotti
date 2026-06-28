@@ -142,16 +142,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers-6.8.0.tar.gz",
-        "sha256": "ab3868065119285370fcd41399c7541fb32239dd90f65be1338d284a80487668",
+        "url": "https://pub.dev/api/archives/audioplayers-6.8.1.tar.gz",
+        "sha256": "2ba4bb2944baacbdd5372ff8254a8e7feb8c10d7739545e392f5605a8f618745",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers-6.8.0"
+        "dest": ".pub-cache/hosted/pub.dev/audioplayers-6.8.1"
     },
     {
         "type": "inline",
-        "contents": "ab3868065119285370fcd41399c7541fb32239dd90f65be1338d284a80487668",
+        "contents": "2ba4bb2944baacbdd5372ff8254a8e7feb8c10d7739545e392f5605a8f618745",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers-6.8.0.sha256"
+        "dest-filename": "audioplayers-6.8.1.sha256"
     },
     {
         "type": "archive",
@@ -226,16 +226,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_windows-4.4.0.tar.gz",
-        "sha256": "d0690f33b1443ee89632126861a997db33dc90f3af54aef305dfb977bc580f2c",
+        "url": "https://pub.dev/api/archives/audioplayers_windows-4.4.1.tar.gz",
+        "sha256": "a70ae82bba2dfcb6eb03dd4815d737a2d46d33ea5a96a03f535cfcaac490e413",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_windows-4.4.0"
+        "dest": ".pub-cache/hosted/pub.dev/audioplayers_windows-4.4.1"
     },
     {
         "type": "inline",
-        "contents": "d0690f33b1443ee89632126861a997db33dc90f3af54aef305dfb977bc580f2c",
+        "contents": "a70ae82bba2dfcb6eb03dd4815d737a2d46d33ea5a96a03f535cfcaac490e413",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_windows-4.4.0.sha256"
+        "dest-filename": "audioplayers_windows-4.4.1.sha256"
     },
     {
         "type": "archive",
@@ -3206,16 +3206,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/msix-3.17.0.tar.gz",
-        "sha256": "bed33b53662c7eac66dc4f9b4176d03140307e6a892ab21ce529be6f74393db0",
+        "url": "https://pub.dev/api/archives/msix-3.18.0.tar.gz",
+        "sha256": "61415c352e8aea084332b8a5514e6408c961c8cdeca202804fff1040eb555ac7",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/msix-3.17.0"
+        "dest": ".pub-cache/hosted/pub.dev/msix-3.18.0"
     },
     {
         "type": "inline",
-        "contents": "bed33b53662c7eac66dc4f9b4176d03140307e6a892ab21ce529be6f74393db0",
+        "contents": "61415c352e8aea084332b8a5514e6408c961c8cdeca202804fff1040eb555ac7",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "msix-3.17.0.sha256"
+        "dest-filename": "msix-3.18.0.sha256"
     },
     {
         "type": "archive",
@@ -4745,16 +4745,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/sqflite_darwin-2.4.3.tar.gz",
-        "sha256": "164a5d73ab87a134566057219988bafde837029a64264e61f1f04376ef3cfcd2",
+        "url": "https://pub.dev/api/archives/sqflite_darwin-2.4.3+1.tar.gz",
+        "sha256": "c86ca18b8f666bbf903924687fe21cc16fc385d086005067e26619ca530bef9f",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/sqflite_darwin-2.4.3"
+        "dest": ".pub-cache/hosted/pub.dev/sqflite_darwin-2.4.3+1"
     },
     {
         "type": "inline",
-        "contents": "164a5d73ab87a134566057219988bafde837029a64264e61f1f04376ef3cfcd2",
+        "contents": "c86ca18b8f666bbf903924687fe21cc16fc385d086005067e26619ca530bef9f",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "sqflite_darwin-2.4.3.sha256"
+        "dest-filename": "sqflite_darwin-2.4.3+1.sha256"
     },
     {
         "type": "archive",
