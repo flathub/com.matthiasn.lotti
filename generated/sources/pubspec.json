@@ -688,16 +688,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/cross_file-0.3.5+3.tar.gz",
-        "sha256": "d687bec93342bf6a764a116d15c8694ebeff10e633dc28a39dd3144f7195024e",
+        "url": "https://pub.dev/api/archives/cross_file-0.3.5+4.tar.gz",
+        "sha256": "92c9c43c383bfa1c32079d3bc492d55d6d4318044b7b47edaff8971cbb555c51",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/cross_file-0.3.5+3"
+        "dest": ".pub-cache/hosted/pub.dev/cross_file-0.3.5+4"
     },
     {
         "type": "inline",
-        "contents": "d687bec93342bf6a764a116d15c8694ebeff10e633dc28a39dd3144f7195024e",
+        "contents": "92c9c43c383bfa1c32079d3bc492d55d6d4318044b7b47edaff8971cbb555c51",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "cross_file-0.3.5+3.sha256"
+        "dest-filename": "cross_file-0.3.5+4.sha256"
     },
     {
         "type": "archive",
@@ -3024,16 +3024,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/matrix-7.4.0.tar.gz",
-        "sha256": "cd08b966e02316e433723d137e1c9285bf65d51c087da78002f9fae3e9c734d7",
+        "url": "https://pub.dev/api/archives/matrix-7.5.0.tar.gz",
+        "sha256": "d1d739b18ae6e3dfe1856fb93c85df45c6fef0d66cb8eb07319853ab29d481f4",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/matrix-7.4.0"
+        "dest": ".pub-cache/hosted/pub.dev/matrix-7.5.0"
     },
     {
         "type": "inline",
-        "contents": "cd08b966e02316e433723d137e1c9285bf65d51c087da78002f9fae3e9c734d7",
+        "contents": "d1d739b18ae6e3dfe1856fb93c85df45c6fef0d66cb8eb07319853ab29d481f4",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "matrix-7.4.0.sha256"
+        "dest-filename": "matrix-7.5.0.sha256"
     },
     {
         "type": "archive",
@@ -4158,16 +4158,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/record_windows-2.2.1.tar.gz",
-        "sha256": "4a8fc03f1e1a688aa07e087db19f1e3cd96c3ad6bbbc467cee703e4df92d7826",
+        "url": "https://pub.dev/api/archives/record_windows-2.2.2.tar.gz",
+        "sha256": "9cedfacee553a02b48977a5e1d74bf08a36cc5647eba56fb83e57da20552f443",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/record_windows-2.2.1"
+        "dest": ".pub-cache/hosted/pub.dev/record_windows-2.2.2"
     },
     {
         "type": "inline",
-        "contents": "4a8fc03f1e1a688aa07e087db19f1e3cd96c3ad6bbbc467cee703e4df92d7826",
+        "contents": "9cedfacee553a02b48977a5e1d74bf08a36cc5647eba56fb83e57da20552f443",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "record_windows-2.2.1.sha256"
+        "dest-filename": "record_windows-2.2.2.sha256"
     },
     {
         "type": "git",
