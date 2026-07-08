@@ -131,7 +131,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: 73b43386a661886e7ab25e91d8c7689477256a65
+        commit: bda48a5b5d3c0f89d748f83e4698c2f96d47a78c
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
