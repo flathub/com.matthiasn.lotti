@@ -2086,6 +2086,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/gal-2.3.2.tar.gz",
+        "sha256": "969598f986789127fd407a750413249e1352116d4c2be66e81837ffeeaafdfee",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/gal-2.3.2"
+    },
+    {
+        "type": "inline",
+        "contents": "969598f986789127fd407a750413249e1352116d4c2be66e81837ffeeaafdfee",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "gal-2.3.2.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/genai_primitives-0.2.3.tar.gz",
         "sha256": "2468ecd2984f32232ab199315e384821c61a198e356828e34b9a5bcf0fda863e",
         "strip-components": 0,
