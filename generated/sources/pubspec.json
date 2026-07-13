@@ -128,6 +128,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/audio_decoder-0.8.1.tar.gz",
+        "sha256": "116d71853a934ede4d2afe31a1dabfb9fe5bb50efe3df4d798dc546cf6604c9f",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/audio_decoder-0.8.1"
+    },
+    {
+        "type": "inline",
+        "contents": "116d71853a934ede4d2afe31a1dabfb9fe5bb50efe3df4d798dc546cf6604c9f",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "audio_decoder-0.8.1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/audio_session-0.1.25.tar.gz",
         "sha256": "2b7fff16a552486d078bfc09a8cde19f426dc6d6329262b684182597bec5b1ac",
         "strip-components": 0,
