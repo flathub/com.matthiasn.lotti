@@ -800,6 +800,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/dart_lame-1.0.3.tar.gz",
+        "sha256": "5f0e00e54d0d5f0334940fd95f59fbb359f9febc4d3359886e18b48861b60b18",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/dart_lame-1.0.3"
+    },
+    {
+        "type": "inline",
+        "contents": "5f0e00e54d0d5f0334940fd95f59fbb359f9febc4d3359886e18b48861b60b18",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "dart_lame-1.0.3.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/dart_polylabel2-1.0.0.tar.gz",
         "sha256": "7eeab15ce72894e4bdba6a8765712231fc81be0bd95247de4ad9966abc57adc6",
         "strip-components": 0,
@@ -1593,6 +1607,20 @@
         "contents": "fc4b0f0b6be9b93ae527f3d527fb56ee2d918cd88bbca438c478af7bcfd0ef73",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "flutter_keyboard_visibility_windows-1.0.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/flutter_lame-1.0.3.tar.gz",
+        "sha256": "3a1353fc1ec84b631e950e42a6f5a9630b92d386788f2ed9cd8192603cb4d1e2",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/flutter_lame-1.0.3"
+    },
+    {
+        "type": "inline",
+        "contents": "3a1353fc1ec84b631e950e42a6f5a9630b92d386788f2ed9cd8192603cb4d1e2",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "flutter_lame-1.0.3.sha256"
     },
     {
         "type": "git",
@@ -7183,5 +7211,10 @@
         "type": "patch",
         "path": "generated/patches/objectbox_flutter_libs/5.3.2-CMakeLists.txt.patch",
         "dest": ".pub-cache/hosted/pub.dev/objectbox_flutter_libs-5.3.2"
+    },
+    {
+        "type": "patch",
+        "path": "generated/patches/flutter_lame/1.0.3-CMakeLists.txt.patch",
+        "dest": ".pub-cache/hosted/pub.dev/flutter_lame-1.0.3"
     }
 ]
