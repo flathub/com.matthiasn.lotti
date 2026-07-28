@@ -1359,20 +1359,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flex_color_scheme-8.4.0.tar.gz",
-        "sha256": "ab854146f201d2d62cc251fd525ef023b84182c4a0bfe4ae4c18ffc505b412d3",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flex_color_scheme-8.4.0"
-    },
-    {
-        "type": "inline",
-        "contents": "ab854146f201d2d62cc251fd525ef023b84182c4a0bfe4ae4c18ffc505b412d3",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flex_color_scheme-8.4.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flex_seed_scheme-4.0.1.tar.gz",
         "sha256": "a3183753bbcfc3af106224bff3ab3e1844b73f58062136b7499919f49f3667e7",
         "strip-components": 0,
