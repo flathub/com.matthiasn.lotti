@@ -450,20 +450,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/calendar_view-2.0.0.tar.gz",
-        "sha256": "116b8797f4d1339883daad31e2a193f5759d6e6778291763ea9c9e49ccd124cd",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/calendar_view-2.0.0"
-    },
-    {
-        "type": "inline",
-        "contents": "116b8797f4d1339883daad31e2a193f5759d6e6778291763ea9c9e49ccd124cd",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "calendar_view-2.0.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/canonical_json-1.1.3.tar.gz",
         "sha256": "618db0b1ea4238a3ef2f325908beee6269550d73b69dc5220456b75ce3cec072",
         "strip-components": 0,
@@ -1131,20 +1117,6 @@
         "contents": "1f9a24d3a00c2633891c6a7b5cab2807999eb2d5b597e5133b63f49d113811fe",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "extended_image_library-5.0.1.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/extended_sliver-2.1.3.tar.gz",
-        "sha256": "2198476e535aa0210656a9cf8b59331bf860bb543ac2431c5ec8d49bd76a310d",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/extended_sliver-2.1.3"
-    },
-    {
-        "type": "inline",
-        "contents": "2198476e535aa0210656a9cf8b59331bf860bb543ac2431c5ec8d49bd76a310d",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "extended_sliver-2.1.3.sha256"
     },
     {
         "type": "archive",
@@ -2254,20 +2226,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/graphic-2.7.0.tar.gz",
-        "sha256": "f0028af737f7fdd5fd50c043af85242d72638ae040a820470208bc885a229d04",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/graphic-2.7.0"
-    },
-    {
-        "type": "inline",
-        "contents": "f0028af737f7fdd5fd50c043af85242d72638ae040a820470208bc885a229d04",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "graphic-2.7.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/graphs-2.3.2.tar.gz",
         "sha256": "741bbf84165310a68ff28fe9e727332eef1407342fca52759cb21ad8177bb8d0",
         "strip-components": 0,
@@ -2600,20 +2558,6 @@
         "contents": "dfd5a80599cf0165756e3181807ed3e77daf6dd4137caaad72d0b7931597650b",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "io-1.0.5.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/ionicons-0.2.2.tar.gz",
-        "sha256": "5496bc65a16115ecf05b15b78f494ee4a8869504357668f0a11d689e970523cf",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/ionicons-0.2.2"
-    },
-    {
-        "type": "inline",
-        "contents": "5496bc65a16115ecf05b15b78f494ee4a8869504357668f0a11d689e970523cf",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "ionicons-0.2.2.sha256"
     },
     {
         "type": "archive",
@@ -3430,20 +3374,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/path_drawing-1.0.1.tar.gz",
-        "sha256": "bbb1934c0cbb03091af082a6389ca2080345291ef07a5fa6d6e078ba8682f977",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/path_drawing-1.0.1"
-    },
-    {
-        "type": "inline",
-        "contents": "bbb1934c0cbb03091af082a6389ca2080345291ef07a5fa6d6e078ba8682f977",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "path_drawing-1.0.1.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/path_parsing-1.1.0.tar.gz",
         "sha256": "883402936929eac138ee0a45da5b0f2c80f89913e6dc3bf77eb65b84b409c6ca",
         "strip-components": 0,
@@ -3678,20 +3608,6 @@
         "contents": "1fc3d970a91295fbd1364296575f854c9863f225505c28c46e0a03e48960c75e",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "photo_view-0.15.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/pie_chart-5.4.0.tar.gz",
-        "sha256": "58e6a46999ac938bfa1c3e5be414d6e149f037647197dca03ba3614324c12c82",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/pie_chart-5.4.0"
-    },
-    {
-        "type": "inline",
-        "contents": "58e6a46999ac938bfa1c3e5be414d6e149f037647197dca03ba3614324c12c82",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "pie_chart-5.4.0.sha256"
     },
     {
         "type": "archive",
