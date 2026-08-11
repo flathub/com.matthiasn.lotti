@@ -275,14 +275,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/base64ct/base64ct-1.7.3.crate",
-        "sha256": "89e25b6adfb930f02d1981565a6e5d9c547ac15a96606256d3b59040e5cd4ca3",
-        "dest": "cargo/vendor/base64ct-1.7.3"
+        "url": "https://static.crates.io/crates/base64ct/base64ct-1.8.3.crate",
+        "sha256": "2af50177e190e07a26ab74f8b1efbfe2ef87da2116221318cb1c2e82baf7de06",
+        "dest": "cargo/vendor/base64ct-1.8.3"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"89e25b6adfb930f02d1981565a6e5d9c547ac15a96606256d3b59040e5cd4ca3\", \"files\": {}}",
-        "dest": "cargo/vendor/base64ct-1.7.3",
+        "contents": "{\"package\": \"2af50177e190e07a26ab74f8b1efbfe2ef87da2116221318cb1c2e82baf7de06\", \"files\": {}}",
+        "dest": "cargo/vendor/base64ct-1.8.3",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1055,14 +1055,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/flutter_rust_bridge/flutter_rust_bridge-2.11.1.crate",
-        "sha256": "dde126295b2acc5f0a712e265e91b6fdc0ed38767496483e592ae7134db83725",
-        "dest": "cargo/vendor/flutter_rust_bridge-2.11.1"
+        "url": "https://static.crates.io/crates/flutter_rust_bridge/flutter_rust_bridge-2.12.0.crate",
+        "sha256": "a0884853aae8a6517b5b58cf36f55da487f2fe110e1686938eb29b6640aae4a5",
+        "dest": "cargo/vendor/flutter_rust_bridge-2.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"dde126295b2acc5f0a712e265e91b6fdc0ed38767496483e592ae7134db83725\", \"files\": {}}",
-        "dest": "cargo/vendor/flutter_rust_bridge-2.11.1",
+        "contents": "{\"package\": \"a0884853aae8a6517b5b58cf36f55da487f2fe110e1686938eb29b6640aae4a5\", \"files\": {}}",
+        "dest": "cargo/vendor/flutter_rust_bridge-2.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1081,14 +1081,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/flutter_rust_bridge_macros/flutter_rust_bridge_macros-2.11.1.crate",
-        "sha256": "d5f0420326b13675321b194928bb7830043b68cf8b810e1c651285c747abb080",
-        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.11.1"
+        "url": "https://static.crates.io/crates/flutter_rust_bridge_macros/flutter_rust_bridge_macros-2.12.0.crate",
+        "sha256": "6b5ce32f35f710ced8c5aa557f023f1a624e737b5460cee2b70fcd3a8df09e1b",
+        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.12.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"d5f0420326b13675321b194928bb7830043b68cf8b810e1c651285c747abb080\", \"files\": {}}",
-        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.11.1",
+        "contents": "{\"package\": \"6b5ce32f35f710ced8c5aa557f023f1a624e737b5460cee2b70fcd3a8df09e1b\", \"files\": {}}",
+        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.12.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2108,27 +2108,27 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/prost/prost-0.13.5.crate",
-        "sha256": "2796faa41db3ec313a31f7624d9286acf277b52de526150b7e69f3debf891ee5",
-        "dest": "cargo/vendor/prost-0.13.5"
+        "url": "https://static.crates.io/crates/prost/prost-0.14.4.crate",
+        "sha256": "528ac67416ff8646872a3c02cad9cc4ee5dc9f9540c9b10771855c95cb2e5ae1",
+        "dest": "cargo/vendor/prost-0.14.4"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"2796faa41db3ec313a31f7624d9286acf277b52de526150b7e69f3debf891ee5\", \"files\": {}}",
-        "dest": "cargo/vendor/prost-0.13.5",
+        "contents": "{\"package\": \"528ac67416ff8646872a3c02cad9cc4ee5dc9f9540c9b10771855c95cb2e5ae1\", \"files\": {}}",
+        "dest": "cargo/vendor/prost-0.14.4",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/prost-derive/prost-derive-0.13.5.crate",
-        "sha256": "8a56d757972c98b346a9b766e3f02746cde6dd1cd1d1d563472929fdd74bec4d",
-        "dest": "cargo/vendor/prost-derive-0.13.5"
+        "url": "https://static.crates.io/crates/prost-derive/prost-derive-0.14.4.crate",
+        "sha256": "b570b25f7617e43d59005d0990ccb79e950a423952cea19671b7a876da390adf",
+        "dest": "cargo/vendor/prost-derive-0.14.4"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"8a56d757972c98b346a9b766e3f02746cde6dd1cd1d1d563472929fdd74bec4d\", \"files\": {}}",
-        "dest": "cargo/vendor/prost-derive-0.13.5",
+        "contents": "{\"package\": \"b570b25f7617e43d59005d0990ccb79e950a423952cea19671b7a876da390adf\", \"files\": {}}",
+        "dest": "cargo/vendor/prost-derive-0.14.4",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2628,6 +2628,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/syn/syn-3.0.3.crate",
+        "sha256": "53e9bae58849f64dfa4f5d5ae372c8341f7305f82a3868709269343628b659a3",
+        "dest": "cargo/vendor/syn-3.0.3"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"53e9bae58849f64dfa4f5d5ae372c8341f7305f82a3868709269343628b659a3\", \"files\": {}}",
+        "dest": "cargo/vendor/syn-3.0.3",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/tempfile/tempfile-3.19.1.crate",
         "sha256": "7437ac7763b9b123ccf33c338a5cc1bac6f69b45a136c19bdd8a65e3916435bf",
         "dest": "cargo/vendor/tempfile-3.19.1"
@@ -2654,14 +2667,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/thiserror/thiserror-2.0.12.crate",
-        "sha256": "567b8a2dae586314f7be2a752ec7474332959c6460e02bde30d702a66d488708",
-        "dest": "cargo/vendor/thiserror-2.0.12"
+        "url": "https://static.crates.io/crates/thiserror/thiserror-2.0.19.crate",
+        "sha256": "09a43598840e33d5b0331f38c5e30d13bb11c11210a4b58f0d9b18a5a5eefcd9",
+        "dest": "cargo/vendor/thiserror-2.0.19"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"567b8a2dae586314f7be2a752ec7474332959c6460e02bde30d702a66d488708\", \"files\": {}}",
-        "dest": "cargo/vendor/thiserror-2.0.12",
+        "contents": "{\"package\": \"09a43598840e33d5b0331f38c5e30d13bb11c11210a4b58f0d9b18a5a5eefcd9\", \"files\": {}}",
+        "dest": "cargo/vendor/thiserror-2.0.19",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2680,14 +2693,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/thiserror-impl/thiserror-impl-2.0.12.crate",
-        "sha256": "7f7cf42b4507d8ea322120659672cf1b9dbb93f8f2d4ecfd6e51350ff5b17a1d",
-        "dest": "cargo/vendor/thiserror-impl-2.0.12"
+        "url": "https://static.crates.io/crates/thiserror-impl/thiserror-impl-2.0.19.crate",
+        "sha256": "43cbfe0cf76104d42a574802844187e84a305e531ed54455f11fbde0f10541cd",
+        "dest": "cargo/vendor/thiserror-impl-2.0.19"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"7f7cf42b4507d8ea322120659672cf1b9dbb93f8f2d4ecfd6e51350ff5b17a1d\", \"files\": {}}",
-        "dest": "cargo/vendor/thiserror-impl-2.0.12",
+        "contents": "{\"package\": \"43cbfe0cf76104d42a574802844187e84a305e531ed54455f11fbde0f10541cd\", \"files\": {}}",
+        "dest": "cargo/vendor/thiserror-impl-2.0.19",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2875,14 +2888,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/vodozemac/vodozemac-0.9.0.crate",
-        "sha256": "c022a277687e4e8685d72b95a7ca3ccfec907daa946678e715f8badaa650883d",
-        "dest": "cargo/vendor/vodozemac-0.9.0"
+        "url": "https://static.crates.io/crates/vodozemac/vodozemac-0.10.0.crate",
+        "sha256": "b98bf83c0992966775b8012f194b07b44928996163e5a05b741b43891571ae5b",
+        "dest": "cargo/vendor/vodozemac-0.10.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"c022a277687e4e8685d72b95a7ca3ccfec907daa946678e715f8badaa650883d\", \"files\": {}}",
-        "dest": "cargo/vendor/vodozemac-0.9.0",
+        "contents": "{\"package\": \"b98bf83c0992966775b8012f194b07b44928996163e5a05b741b43891571ae5b\", \"files\": {}}",
+        "dest": "cargo/vendor/vodozemac-0.10.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -3473,27 +3486,27 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/zeroize/zeroize-1.8.1.crate",
-        "sha256": "ced3678a2879b30306d323f4542626697a464a97c0a07c9aebf7ebca65cd4dde",
-        "dest": "cargo/vendor/zeroize-1.8.1"
+        "url": "https://static.crates.io/crates/zeroize/zeroize-1.9.0.crate",
+        "sha256": "e13c156562582aa81c60cb29407084cdb54c4164760106ab78e6c5b0858cf64e",
+        "dest": "cargo/vendor/zeroize-1.9.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"ced3678a2879b30306d323f4542626697a464a97c0a07c9aebf7ebca65cd4dde\", \"files\": {}}",
-        "dest": "cargo/vendor/zeroize-1.8.1",
+        "contents": "{\"package\": \"e13c156562582aa81c60cb29407084cdb54c4164760106ab78e6c5b0858cf64e\", \"files\": {}}",
+        "dest": "cargo/vendor/zeroize-1.9.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/zeroize_derive/zeroize_derive-1.4.2.crate",
-        "sha256": "ce36e65b0d2999d2aafac989fb249189a141aee1f53c612c1f37d72631959f69",
-        "dest": "cargo/vendor/zeroize_derive-1.4.2"
+        "url": "https://static.crates.io/crates/zeroize_derive/zeroize_derive-1.5.0.crate",
+        "sha256": "3c50655cbb0fe3fc43170059e702f1ce5e19b84cec58dc87b037a09935c2f328",
+        "dest": "cargo/vendor/zeroize_derive-1.5.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"ce36e65b0d2999d2aafac989fb249189a141aee1f53c612c1f37d72631959f69\", \"files\": {}}",
-        "dest": "cargo/vendor/zeroize_derive-1.4.2",
+        "contents": "{\"package\": \"3c50655cbb0fe3fc43170059e702f1ce5e19b84cec58dc87b037a09935c2f328\", \"files\": {}}",
+        "dest": "cargo/vendor/zeroize_derive-1.5.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
