@@ -1401,6 +1401,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/flutter_contacts-2.3.1.tar.gz",
+        "sha256": "3a018a04ffc88f8555068f86b7750c7cbc758e9ebccafa985f91353bcb6df496",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/flutter_contacts-2.3.1"
+    },
+    {
+        "type": "inline",
+        "contents": "3a018a04ffc88f8555068f86b7750c7cbc758e9ebccafa985f91353bcb6df496",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "flutter_contacts-2.3.1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flutter_dotenv-6.0.1.tar.gz",
         "sha256": "d41da11fb497314fbf89811ec30af02d1d898b47980a129f0a8c0a1720460ba2",
         "strip-components": 0,
