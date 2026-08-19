@@ -1736,20 +1736,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_material_design_icons-3.1.0+7447.tar.gz",
-        "sha256": "9a7b6308736e328f9ce2249c3727a56a289c915a65ebf1b1b5f237c8232e92b7",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_material_design_icons-3.1.0+7447"
-    },
-    {
-        "type": "inline",
-        "contents": "9a7b6308736e328f9ce2249c3727a56a289c915a65ebf1b1b5f237c8232e92b7",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_material_design_icons-3.1.0+7447.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flutter_math_fork-0.7.4.tar.gz",
         "sha256": "6d5f2f1aa57ae539ffb0a04bb39d2da67af74601d685a161aff7ce5bda5fa407",
         "strip-components": 0,
@@ -2978,6 +2964,20 @@
         "contents": "c8245ada5f1717ed44271ed1c26b8ce85ca3228fd2ffdb75468ab01979309d61",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "logging-1.3.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/lucide_icons_flutter-3.1.15.tar.gz",
+        "sha256": "234155b10641b8ef7bab8a077b93ea6c92fe849c06740cf89dcd86dcf350934f",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/lucide_icons_flutter-3.1.15"
+    },
+    {
+        "type": "inline",
+        "contents": "234155b10641b8ef7bab8a077b93ea6c92fe849c06740cf89dcd86dcf350934f",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "lucide_icons_flutter-3.1.15.sha256"
     },
     {
         "type": "archive",
