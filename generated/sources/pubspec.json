@@ -86,16 +86,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/archive-4.1.0.tar.gz",
-        "sha256": "be169cf6ac481e052c4538715d88841d567150dfe1df38aaec76461a4e7b39f2",
+        "url": "https://pub.dev/api/archives/archive-4.2.0.tar.gz",
+        "sha256": "ace891da0862b0e4cabbb064ee3fd87b2728b898949fdb366d83fe98342c9f19",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/archive-4.1.0"
+        "dest": ".pub-cache/hosted/pub.dev/archive-4.2.0"
     },
     {
         "type": "inline",
-        "contents": "be169cf6ac481e052c4538715d88841d567150dfe1df38aaec76461a4e7b39f2",
+        "contents": "ace891da0862b0e4cabbb064ee3fd87b2728b898949fdb366d83fe98342c9f19",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "archive-4.1.0.sha256"
+        "dest-filename": "archive-4.2.0.sha256"
     },
     {
         "type": "archive",
@@ -2226,16 +2226,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/gpt_markdown-1.1.8.tar.gz",
-        "sha256": "ab6fe339f500104816139a034b8a23a125dadbc1988eda1641c6616562a4962b",
+        "url": "https://pub.dev/api/archives/gpt_markdown-1.2.1.tar.gz",
+        "sha256": "42887afaf5c7a71348221048a6c1e34c9836703ee0e6b4865e789253fcaa204a",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/gpt_markdown-1.1.8"
+        "dest": ".pub-cache/hosted/pub.dev/gpt_markdown-1.2.1"
     },
     {
         "type": "inline",
-        "contents": "ab6fe339f500104816139a034b8a23a125dadbc1988eda1641c6616562a4962b",
+        "contents": "42887afaf5c7a71348221048a6c1e34c9836703ee0e6b4865e789253fcaa204a",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "gpt_markdown-1.1.8.sha256"
+        "dest-filename": "gpt_markdown-1.2.1.sha256"
     },
     {
         "type": "archive",
@@ -2968,16 +2968,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/lucide_icons_flutter-3.1.15.tar.gz",
-        "sha256": "234155b10641b8ef7bab8a077b93ea6c92fe849c06740cf89dcd86dcf350934f",
+        "url": "https://pub.dev/api/archives/lucide_icons_flutter-3.1.17.tar.gz",
+        "sha256": "6e2eb4a11137851be84a57e936fc864d565709ec0ae854b786b15397d1b66276",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/lucide_icons_flutter-3.1.15"
+        "dest": ".pub-cache/hosted/pub.dev/lucide_icons_flutter-3.1.17"
     },
     {
         "type": "inline",
-        "contents": "234155b10641b8ef7bab8a077b93ea6c92fe849c06740cf89dcd86dcf350934f",
+        "contents": "6e2eb4a11137851be84a57e936fc864d565709ec0ae854b786b15397d1b66276",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "lucide_icons_flutter-3.1.15.sha256"
+        "dest-filename": "lucide_icons_flutter-3.1.17.sha256"
     },
     {
         "type": "archive",
