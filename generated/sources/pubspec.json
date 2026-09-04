@@ -1890,20 +1890,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_openssl_crypto-0.5.0.tar.gz",
-        "sha256": "293b4fcda13ab0710645a16e82f3d5b7de19bfc0ab2d06bcdb87637222eda5e1",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_openssl_crypto-0.5.0"
-    },
-    {
-        "type": "inline",
-        "contents": "293b4fcda13ab0710645a16e82f3d5b7de19bfc0ab2d06bcdb87637222eda5e1",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_openssl_crypto-0.5.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flutter_plugin_android_lifecycle-2.0.35.tar.gz",
         "sha256": "3854fe5e3bff0b113c658f260b90c95dea17c92db0f2addeac2e343dd9969785",
         "strip-components": 0,
