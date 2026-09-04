@@ -652,6 +652,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/console/console-0.16.4.crate",
+        "sha256": "4fe5f465a4f6fee88fad41b85d990f84c835335e85b5d9e6e63e0d06d28cba7c",
+        "dest": "cargo/vendor/console-0.16.4"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"4fe5f465a4f6fee88fad41b85d990f84c835335e85b5d9e6e63e0d06d28cba7c\", \"files\": {}}",
+        "dest": "cargo/vendor/console-0.16.4",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/console_error_panic_hook/console_error_panic_hook-0.1.7.crate",
         "sha256": "a06aeb73f470f66dcdbf7223caeebb85984942f22f1adb2a088cf9668146bbbc",
         "dest": "cargo/vendor/console_error_panic_hook-0.1.7"
@@ -1055,40 +1068,40 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/flutter_rust_bridge/flutter_rust_bridge-2.12.0.crate",
-        "sha256": "a0884853aae8a6517b5b58cf36f55da487f2fe110e1686938eb29b6640aae4a5",
-        "dest": "cargo/vendor/flutter_rust_bridge-2.12.0"
+        "url": "https://static.crates.io/crates/flutter_rust_bridge/flutter_rust_bridge-2.13.0.crate",
+        "sha256": "24a973d15b8fc7de9fb29cdfbec58a2ac41f6252492d3b882abfdc603e32b34f",
+        "dest": "cargo/vendor/flutter_rust_bridge-2.13.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"a0884853aae8a6517b5b58cf36f55da487f2fe110e1686938eb29b6640aae4a5\", \"files\": {}}",
-        "dest": "cargo/vendor/flutter_rust_bridge-2.12.0",
+        "contents": "{\"package\": \"24a973d15b8fc7de9fb29cdfbec58a2ac41f6252492d3b882abfdc603e32b34f\", \"files\": {}}",
+        "dest": "cargo/vendor/flutter_rust_bridge-2.13.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/flutter_rust_bridge_codegen/flutter_rust_bridge_codegen-2.9.0.crate",
-        "sha256": "ce4b53008b970ccd5a2405bf711beb664c43e7fd216624a606e3a60b49b6753c",
-        "dest": "cargo/vendor/flutter_rust_bridge_codegen-2.9.0"
+        "url": "https://static.crates.io/crates/flutter_rust_bridge_codegen/flutter_rust_bridge_codegen-2.13.0.crate",
+        "sha256": "701a8e577f9f5f59f651e1e932add36ee5dfb82d0fa20215225ea177d4dbbe4b",
+        "dest": "cargo/vendor/flutter_rust_bridge_codegen-2.13.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"ce4b53008b970ccd5a2405bf711beb664c43e7fd216624a606e3a60b49b6753c\", \"files\": {}}",
-        "dest": "cargo/vendor/flutter_rust_bridge_codegen-2.9.0",
+        "contents": "{\"package\": \"701a8e577f9f5f59f651e1e932add36ee5dfb82d0fa20215225ea177d4dbbe4b\", \"files\": {}}",
+        "dest": "cargo/vendor/flutter_rust_bridge_codegen-2.13.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/flutter_rust_bridge_macros/flutter_rust_bridge_macros-2.12.0.crate",
-        "sha256": "6b5ce32f35f710ced8c5aa557f023f1a624e737b5460cee2b70fcd3a8df09e1b",
-        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.12.0"
+        "url": "https://static.crates.io/crates/flutter_rust_bridge_macros/flutter_rust_bridge_macros-2.13.0.crate",
+        "sha256": "901eec2d226107dad1c55b30f7421c4687bebcf70ed43ca44d1b447ca087b238",
+        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.13.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"6b5ce32f35f710ced8c5aa557f023f1a624e737b5460cee2b70fcd3a8df09e1b\", \"files\": {}}",
-        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.12.0",
+        "contents": "{\"package\": \"901eec2d226107dad1c55b30f7421c4687bebcf70ed43ca44d1b447ca087b238\", \"files\": {}}",
+        "dest": "cargo/vendor/flutter_rust_bridge_macros-2.13.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -1479,6 +1492,19 @@
         "type": "inline",
         "contents": "{\"package\": \"183b3088984b400f4cfac3620d5e076c84da5364016b4f49473de574b2586235\", \"files\": {}}",
         "dest": "cargo/vendor/indicatif-0.17.11",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/indicatif/indicatif-0.18.6.crate",
+        "sha256": "9433806cd6b4ec1aba79c021c7e4c58fb4c3b9977c085062e611ac929998fb0c",
+        "dest": "cargo/vendor/indicatif-0.18.6"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"9433806cd6b4ec1aba79c021c7e4c58fb4c3b9977c085062e611ac929998fb0c\", \"files\": {}}",
+        "dest": "cargo/vendor/indicatif-0.18.6",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2030,14 +2056,14 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://static.crates.io/crates/portable-atomic/portable-atomic-1.11.0.crate",
-        "sha256": "350e9b48cbc6b0e028b0473b114454c6316e57336ee184ceab6e53f72c178b3e",
-        "dest": "cargo/vendor/portable-atomic-1.11.0"
+        "url": "https://static.crates.io/crates/portable-atomic/portable-atomic-1.15.0.crate",
+        "sha256": "05c8b63e8d9609db387f0324918f81d68fe27748f084ef092fb35954d0539a85",
+        "dest": "cargo/vendor/portable-atomic-1.15.0"
     },
     {
         "type": "inline",
-        "contents": "{\"package\": \"350e9b48cbc6b0e028b0473b114454c6316e57336ee184ceab6e53f72c178b3e\", \"files\": {}}",
-        "dest": "cargo/vendor/portable-atomic-1.11.0",
+        "contents": "{\"package\": \"05c8b63e8d9609db387f0324918f81d68fe27748f084ef092fb35954d0539a85\", \"files\": {}}",
+        "dest": "cargo/vendor/portable-atomic-1.15.0",
         "dest-filename": ".cargo-checksum.json"
     },
     {
@@ -2836,6 +2862,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/unit-prefix/unit-prefix-0.5.2.crate",
+        "sha256": "81e544489bf3d8ef66c953931f56617f423cd4b5494be343d9b9d3dda037b9a3",
+        "dest": "cargo/vendor/unit-prefix-0.5.2"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"81e544489bf3d8ef66c953931f56617f423cd4b5494be343d9b9d3dda037b9a3\", \"files\": {}}",
+        "dest": "cargo/vendor/unit-prefix-0.5.2",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/universal-hash/universal-hash-0.5.1.crate",
         "sha256": "fc1de2c688dc15305988b563c3854064043356019f97a4b46276fe734c4f07ea",
         "dest": "cargo/vendor/universal-hash-0.5.1"
@@ -3148,6 +3187,19 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/windows-link/windows-link-0.2.1.crate",
+        "sha256": "f0805222e57f7521d6a62e36fa9163bc891acd422f971defe97d64e70d0a4fe5",
+        "dest": "cargo/vendor/windows-link-0.2.1"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"f0805222e57f7521d6a62e36fa9163bc891acd422f971defe97d64e70d0a4fe5\", \"files\": {}}",
+        "dest": "cargo/vendor/windows-link-0.2.1",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://static.crates.io/crates/windows-result/windows-result-0.3.2.crate",
         "sha256": "c64fd11a4fd95df68efcfee5f44a294fe71b8bc6a91993e2791938abcc712252",
         "dest": "cargo/vendor/windows-result-0.3.2"
@@ -3195,6 +3247,19 @@
         "type": "inline",
         "contents": "{\"package\": \"1e38bc4d79ed67fd075bcc251a1c39b32a1776bbe92e5bef1f0bf1f8c531853b\", \"files\": {}}",
         "dest": "cargo/vendor/windows-sys-0.59.0",
+        "dest-filename": ".cargo-checksum.json"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://static.crates.io/crates/windows-sys/windows-sys-0.61.2.crate",
+        "sha256": "ae137229bcbd6cdf0f7b80a31df61766145077ddf49416a728b02cb3921ff3fc",
+        "dest": "cargo/vendor/windows-sys-0.61.2"
+    },
+    {
+        "type": "inline",
+        "contents": "{\"package\": \"ae137229bcbd6cdf0f7b80a31df61766145077ddf49416a728b02cb3921ff3fc\", \"files\": {}}",
+        "dest": "cargo/vendor/windows-sys-0.61.2",
         "dest-filename": ".cargo-checksum.json"
     },
     {
