@@ -3108,16 +3108,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/lucide_icons_flutter-3.1.17.tar.gz",
-        "sha256": "6e2eb4a11137851be84a57e936fc864d565709ec0ae854b786b15397d1b66276",
+        "url": "https://pub.dev/api/archives/lucide_icons_flutter-3.1.18.tar.gz",
+        "sha256": "9a2e1708ade2ab587bee5034d939686fb89820426c41b4ffb9d97a698b526ceb",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/lucide_icons_flutter-3.1.17"
+        "dest": ".pub-cache/hosted/pub.dev/lucide_icons_flutter-3.1.18"
     },
     {
         "type": "inline",
-        "contents": "6e2eb4a11137851be84a57e936fc864d565709ec0ae854b786b15397d1b66276",
+        "contents": "9a2e1708ade2ab587bee5034d939686fb89820426c41b4ffb9d97a698b526ceb",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "lucide_icons_flutter-3.1.17.sha256"
+        "dest-filename": "lucide_icons_flutter-3.1.18.sha256"
     },
     {
         "type": "archive",
@@ -3738,16 +3738,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/permission_handler_platform_interface-4.4.0.tar.gz",
-        "sha256": "a5c8a97ecf5616112a5b16d4b8e9ec0e5ae90ef63ac69c0d7b8ae240be760b23",
+        "url": "https://pub.dev/api/archives/permission_handler_platform_interface-4.4.1.tar.gz",
+        "sha256": "ed86a61c190258fdd65de395ea0632822e3415c1faec38eae0c31b479c28a531",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/permission_handler_platform_interface-4.4.0"
+        "dest": ".pub-cache/hosted/pub.dev/permission_handler_platform_interface-4.4.1"
     },
     {
         "type": "inline",
-        "contents": "a5c8a97ecf5616112a5b16d4b8e9ec0e5ae90ef63ac69c0d7b8ae240be760b23",
+        "contents": "ed86a61c190258fdd65de395ea0632822e3415c1faec38eae0c31b479c28a531",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "permission_handler_platform_interface-4.4.0.sha256"
+        "dest-filename": "permission_handler_platform_interface-4.4.1.sha256"
     },
     {
         "type": "archive",
@@ -5711,16 +5711,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/video_player_avfoundation-2.11.1.tar.gz",
-        "sha256": "436fd029bd1c1e303b2d95ebd76948893f3c28dab286e7235ba9dd7b22533bf0",
+        "url": "https://pub.dev/api/archives/video_player_avfoundation-2.12.0.tar.gz",
+        "sha256": "2fc56e537324a19eb649fca991aa308ac961b5406292876fa657b062de461fd8",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/video_player_avfoundation-2.11.1"
+        "dest": ".pub-cache/hosted/pub.dev/video_player_avfoundation-2.12.0"
     },
     {
         "type": "inline",
-        "contents": "436fd029bd1c1e303b2d95ebd76948893f3c28dab286e7235ba9dd7b22533bf0",
+        "contents": "2fc56e537324a19eb649fca991aa308ac961b5406292876fa657b062de461fd8",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "video_player_avfoundation-2.11.1.sha256"
+        "dest-filename": "video_player_avfoundation-2.12.0.sha256"
     },
     {
         "type": "archive",
