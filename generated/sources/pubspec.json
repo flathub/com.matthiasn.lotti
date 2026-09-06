@@ -4717,6 +4717,146 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx-1.13.7.tar.gz",
+        "sha256": "d22c590277619d2d38d3d670afc283b2e435ca0be1ec0b73c64db77878100970",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "d22c590277619d2d38d3d670afc283b2e435ca0be1ec0b73c64db77878100970",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_android_arm64-1.13.7.tar.gz",
+        "sha256": "75abd783a9cfa1579d8dd4eb8f3f59cdf0aff559cadab3399568fef3fadaec8c",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_android_arm64-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "75abd783a9cfa1579d8dd4eb8f3f59cdf0aff559cadab3399568fef3fadaec8c",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_android_arm64-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_android_armeabi-1.13.7.tar.gz",
+        "sha256": "072e355714307eec4cf8104156466d64c07d8bd0d507158b84fa64872aa5b48e",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_android_armeabi-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "072e355714307eec4cf8104156466d64c07d8bd0d507158b84fa64872aa5b48e",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_android_armeabi-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_android_x86-1.13.7.tar.gz",
+        "sha256": "38da8703c2f24aa97b6c936b8761699439f4b151c91618a298024326aa6f8bab",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_android_x86-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "38da8703c2f24aa97b6c936b8761699439f4b151c91618a298024326aa6f8bab",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_android_x86-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_android_x86_64-1.13.7.tar.gz",
+        "sha256": "14066274539b90d5be038d809be1aa57ae7b5aa1f1219a3d712780d076d0e1fd",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_android_x86_64-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "14066274539b90d5be038d809be1aa57ae7b5aa1f1219a3d712780d076d0e1fd",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_android_x86_64-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_ios-1.13.7.tar.gz",
+        "sha256": "e2eacf9b2bc630f6e1f976fa2e9357030f8ecbd61b6001ff1bb7be8ebfcda042",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_ios-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "e2eacf9b2bc630f6e1f976fa2e9357030f8ecbd61b6001ff1bb7be8ebfcda042",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_ios-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_linux-1.13.7.tar.gz",
+        "sha256": "eeb193b4c0626199eae4ce49f0f21ffb117bd22ec3933db3d579511534246d45",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_linux-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "eeb193b4c0626199eae4ce49f0f21ffb117bd22ec3933db3d579511534246d45",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_linux-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_macos-1.13.7.tar.gz",
+        "sha256": "5ed5a323f6fe9dc37e5535058a081aa87cdbf427b52798a6cebad330efe7449b",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_macos-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "5ed5a323f6fe9dc37e5535058a081aa87cdbf427b52798a6cebad330efe7449b",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_macos-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_web-1.13.7.tar.gz",
+        "sha256": "b3b5d54df39e720b626439a8f14ea08ea1bdb5513f64dff2a5c5bb251e6093b7",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_web-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "b3b5d54df39e720b626439a8f14ea08ea1bdb5513f64dff2a5c5bb251e6093b7",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_web-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sherpa_onnx_windows-1.13.7.tar.gz",
+        "sha256": "08c145c5ba99a15a9e916ff0a689d6058c2daa60d3c996bc6cac22457ebccb18",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sherpa_onnx_windows-1.13.7"
+    },
+    {
+        "type": "inline",
+        "contents": "08c145c5ba99a15a9e916ff0a689d6058c2daa60d3c996bc6cac22457ebccb18",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sherpa_onnx_windows-1.13.7.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/signature-5.5.0.tar.gz",
         "sha256": "8056e091ad59c2eb5735fee975ec649d0caf8ce802bb1ffb1e0955b00a6d0daa",
         "strip-components": 0,
