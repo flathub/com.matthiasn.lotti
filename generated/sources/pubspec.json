@@ -1778,16 +1778,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_local_notifications-22.3.0.tar.gz",
-        "sha256": "1447ba911c60f2ba3f25dae1af151ec187162566b0f57e37771bf0b400f013ad",
+        "url": "https://pub.dev/api/archives/flutter_local_notifications-22.3.1.tar.gz",
+        "sha256": "357be7ff996dc272e2037c69c1bdd5d1bd21172219d55f8bd2e11aeea602e6d3",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications-22.3.0"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_local_notifications-22.3.1"
     },
     {
         "type": "inline",
-        "contents": "1447ba911c60f2ba3f25dae1af151ec187162566b0f57e37771bf0b400f013ad",
+        "contents": "357be7ff996dc272e2037c69c1bdd5d1bd21172219d55f8bd2e11aeea602e6d3",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_local_notifications-22.3.0.sha256"
+        "dest-filename": "flutter_local_notifications-22.3.1.sha256"
     },
     {
         "type": "archive",
@@ -2016,16 +2016,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_secure_storage-10.3.2.tar.gz",
-        "sha256": "2670c2a81a032080e779c015f4f775373605c4a364643ed371e78dea7781822c",
+        "url": "https://pub.dev/api/archives/flutter_secure_storage-10.3.3.tar.gz",
+        "sha256": "6a79c298171e6165823c41db058e10ad0e0d1f10af361a7e7c8d74f058435f50",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_secure_storage-10.3.2"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_secure_storage-10.3.3"
     },
     {
         "type": "inline",
-        "contents": "2670c2a81a032080e779c015f4f775373605c4a364643ed371e78dea7781822c",
+        "contents": "6a79c298171e6165823c41db058e10ad0e0d1f10af361a7e7c8d74f058435f50",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_secure_storage-10.3.2.sha256"
+        "dest-filename": "flutter_secure_storage-10.3.3.sha256"
     },
     {
         "type": "archive",
@@ -2044,16 +2044,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_secure_storage_linux-3.0.2.tar.gz",
-        "sha256": "76fa9c841b3b1619fc5b5bc36efc7d158fa2356f223b6caeb1d0c80a54168546",
+        "url": "https://pub.dev/api/archives/flutter_secure_storage_linux-3.0.3.tar.gz",
+        "sha256": "caa75bd78f017422912e3a904933113b2428eb79f981ac37acd2dd2a700458ea",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_secure_storage_linux-3.0.2"
+        "dest": ".pub-cache/hosted/pub.dev/flutter_secure_storage_linux-3.0.3"
     },
     {
         "type": "inline",
-        "contents": "76fa9c841b3b1619fc5b5bc36efc7d158fa2356f223b6caeb1d0c80a54168546",
+        "contents": "caa75bd78f017422912e3a904933113b2428eb79f981ac37acd2dd2a700458ea",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_secure_storage_linux-3.0.2.sha256"
+        "dest-filename": "flutter_secure_storage_linux-3.0.3.sha256"
     },
     {
         "type": "archive",
@@ -2268,16 +2268,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/genui-0.10.2.tar.gz",
-        "sha256": "b6030eae45860224043a91a548e5458ef93a879604a9cfcb8aeec32cc6b39277",
+        "url": "https://pub.dev/api/archives/genui-0.10.3.tar.gz",
+        "sha256": "e5a744aa9dfb28326fa397a1e445767e69bf7a5b99bda1e640daf6482f46c37e",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/genui-0.10.2"
+        "dest": ".pub-cache/hosted/pub.dev/genui-0.10.3"
     },
     {
         "type": "inline",
-        "contents": "b6030eae45860224043a91a548e5458ef93a879604a9cfcb8aeec32cc6b39277",
+        "contents": "e5a744aa9dfb28326fa397a1e445767e69bf7a5b99bda1e640daf6482f46c37e",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "genui-0.10.2.sha256"
+        "dest-filename": "genui-0.10.3.sha256"
     },
     {
         "type": "archive",
@@ -4228,16 +4228,16 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/record_android-2.1.2.tar.gz",
-        "sha256": "28f1108626a190e249b01ffa9f639070e31e5157474b64a5ae380bf36aec9559",
+        "url": "https://pub.dev/api/archives/record_android-2.2.0.tar.gz",
+        "sha256": "f5080279259c4ad769590f1c165762eaa4e414178adc2e2fab137103228e07ac",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/record_android-2.1.2"
+        "dest": ".pub-cache/hosted/pub.dev/record_android-2.2.0"
     },
     {
         "type": "inline",
-        "contents": "28f1108626a190e249b01ffa9f639070e31e5157474b64a5ae380bf36aec9559",
+        "contents": "f5080279259c4ad769590f1c165762eaa4e414178adc2e2fab137103228e07ac",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "record_android-2.1.2.sha256"
+        "dest-filename": "record_android-2.2.0.sha256"
     },
     {
         "type": "archive",
@@ -4312,30 +4312,30 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/record_web-2.1.2.tar.gz",
-        "sha256": "f53d3da48de3618a331868aec73261d5a75eddd9c09409afd9ec6d66b25db532",
+        "url": "https://pub.dev/api/archives/record_web-2.1.3.tar.gz",
+        "sha256": "7f6950be87abacb05cf77eb6ca200b60f2c2a6af5d50236b5f4baf53f92e755e",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/record_web-2.1.2"
+        "dest": ".pub-cache/hosted/pub.dev/record_web-2.1.3"
     },
     {
         "type": "inline",
-        "contents": "f53d3da48de3618a331868aec73261d5a75eddd9c09409afd9ec6d66b25db532",
+        "contents": "7f6950be87abacb05cf77eb6ca200b60f2c2a6af5d50236b5f4baf53f92e755e",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "record_web-2.1.2.sha256"
+        "dest-filename": "record_web-2.1.3.sha256"
     },
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/record_windows-2.2.3.tar.gz",
-        "sha256": "e6884f91be4370f122111aca3c04291ae5fe6d8fd045f87afa967635a02dbbac",
+        "url": "https://pub.dev/api/archives/record_windows-2.3.0.tar.gz",
+        "sha256": "8195489a47b5e8246985d6213ff65aae1b14e32a0ca45dc5f680e8d503296e1b",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/record_windows-2.2.3"
+        "dest": ".pub-cache/hosted/pub.dev/record_windows-2.3.0"
     },
     {
         "type": "inline",
-        "contents": "e6884f91be4370f122111aca3c04291ae5fe6d8fd045f87afa967635a02dbbac",
+        "contents": "8195489a47b5e8246985d6213ff65aae1b14e32a0ca45dc5f680e8d503296e1b",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "record_windows-2.2.3.sha256"
+        "dest-filename": "record_windows-2.3.0.sha256"
     },
     {
         "type": "git",
