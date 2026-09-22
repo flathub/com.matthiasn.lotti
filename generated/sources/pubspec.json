@@ -2282,6 +2282,34 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/geolocator_apple-2.3.14.tar.gz",
+        "sha256": "853803d6bb1713c094e935b4a5ae5f19c0308acf81da13fa9ff84fb4c70c0b73",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/geolocator_apple-2.3.14"
+    },
+    {
+        "type": "inline",
+        "contents": "853803d6bb1713c094e935b4a5ae5f19c0308acf81da13fa9ff84fb4c70c0b73",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "geolocator_apple-2.3.14.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/geolocator_platform_interface-4.3.0.tar.gz",
+        "sha256": "94db8255dc183d268765df682580440617ca35877fc82cacb5420ad03b86198d",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/geolocator_platform_interface-4.3.0"
+    },
+    {
+        "type": "inline",
+        "contents": "94db8255dc183d268765df682580440617ca35877fc82cacb5420ad03b86198d",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "geolocator_platform_interface-4.3.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/get_it-9.3.0.tar.gz",
         "sha256": "2b5c6b077aad30bba9782178baff6076a2044141f1d5f2f15b43bca3fbe74874",
         "strip-components": 0,
@@ -3066,48 +3094,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/location-10.0.2.tar.gz",
-        "sha256": "4cc204cc1ea237ac608d2d621ddeed40d7f62564693126420c5ebe6d1fa8c5ea",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/location-10.0.2"
-    },
-    {
-        "type": "inline",
-        "contents": "4cc204cc1ea237ac608d2d621ddeed40d7f62564693126420c5ebe6d1fa8c5ea",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "location-10.0.2.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/location_platform_interface-7.0.0.tar.gz",
-        "sha256": "0b1aff439c77f1ec204c95ee84640f5eb8c5904cc11f0a613a6842ac1116272c",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/location_platform_interface-7.0.0"
-    },
-    {
-        "type": "inline",
-        "contents": "0b1aff439c77f1ec204c95ee84640f5eb8c5904cc11f0a613a6842ac1116272c",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "location_platform_interface-7.0.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/location_web-7.0.0.tar.gz",
-        "sha256": "1a50fe9eb4d7d33c70d65a3f2c83acbba20c380be699bcb5357b6756ef195eba",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/location_web-7.0.0"
-    },
-    {
-        "type": "inline",
-        "contents": "1a50fe9eb4d7d33c70d65a3f2c83acbba20c380be699bcb5357b6756ef195eba",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "location_web-7.0.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/logging-1.3.0.tar.gz",
         "sha256": "c8245ada5f1717ed44271ed1c26b8ce85ca3228fd2ffdb75468ab01979309d61",
         "strip-components": 0,
@@ -3342,20 +3328,6 @@
         "contents": "bd47de35f07e27267e69c8c8b22edf9473bfee170a60d60fcc93730c5144b7f6",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "mime-2.1.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/mobile_scanner-7.4.2.tar.gz",
-        "sha256": "5a51ea79f0cf8293f616a5d08baae185b59b5e6bb24df01f2a63037ade0bade0",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/mobile_scanner-7.4.2"
-    },
-    {
-        "type": "inline",
-        "contents": "5a51ea79f0cf8293f616a5d08baae185b59b5e6bb24df01f2a63037ade0bade0",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "mobile_scanner-7.4.2.sha256"
     },
     {
         "type": "archive",
