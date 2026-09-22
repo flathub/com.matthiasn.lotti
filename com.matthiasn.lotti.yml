@@ -2,10 +2,10 @@
 # Visit the project at https://github.com/TheAppgineer/flatpak-flutter
 app-id: com.matthiasn.lotti
 runtime: org.freedesktop.Platform
-runtime-version: '25.08'
+runtime-version: '26.08'
 sdk: org.freedesktop.Sdk
 sdk-extensions:
-  - org.freedesktop.Sdk.Extension.llvm20
+  - org.freedesktop.Sdk.Extension.llvm22
 command: lotti
 finish-args:
   - --share=network
@@ -65,12 +65,11 @@ modules:
       - -Ddebug=false
       - -Dbuild-date=false
       - -Dmanpage-build=disabled
-      - -Dsdl2=disabled
       - -Dvulkan=disabled
     sources:
       - type: archive
-        url: https://github.com/mpv-player/mpv/archive/v0.38.0.tar.gz
-        sha256: 86d9ef40b6058732f67b46d0bbda24a074fae860b3eaae05bab3145041303066
+        url: https://github.com/mpv-player/mpv/archive/v0.41.0.tar.gz
+        sha256: ee21092a5ee427353392360929dc64645c54479aefdb5babc5cfbb5fad626209
   - name: libsecret
     buildsystem: meson
     config-opts:
@@ -109,8 +108,8 @@ modules:
   - name: lotti
     buildsystem: simple
     build-options:
-      append-path: /usr/lib/sdk/llvm20/bin:/var/lib/rustup/bin:/var/lib/flutter/bin
-      prepend-ld-library-path: /usr/lib/sdk/llvm20/lib
+      append-path: /usr/lib/sdk/llvm22/bin:/var/lib/rustup/bin:/var/lib/flutter/bin
+      prepend-ld-library-path: /usr/lib/sdk/llvm22/lib
       env:
         PUB_CACHE: /run/build/lotti/.pub-cache
         CARGO_HOME: /run/build/lotti/cargo
@@ -134,7 +133,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: ea4bafbe3ba8b7e65d858aba3cf0d1441dd58e7b
+        commit: c117297f545377273063c50b59aaca922fa69768
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
