@@ -4885,6 +4885,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/sodium-4.1.1+1.tar.gz",
+        "sha256": "ed4733228fbd45b4177e09feb84a08385d53dc39f2a2166b7439ad80a19ac5f5",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/sodium-4.1.1+1"
+    },
+    {
+        "type": "inline",
+        "contents": "ed4733228fbd45b4177e09feb84a08385d53dc39f2a2166b7439ad80a19ac5f5",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "sodium-4.1.1+1.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/source_gen-4.2.4.tar.gz",
         "sha256": "a603f1fb984a7391ae5978d1b92bfaaa08b350dca5c825256f925818f7943bf5",
         "strip-components": 0,
