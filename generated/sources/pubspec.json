@@ -2324,20 +2324,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/glass_kit-4.0.2.tar.gz",
-        "sha256": "ca071693b6b1c5ddc628aee030df0eb99a4063b55b5928cf84bb82f9bc32595f",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/glass_kit-4.0.2"
-    },
-    {
-        "type": "inline",
-        "contents": "ca071693b6b1c5ddc628aee030df0eb99a4063b55b5928cf84bb82f9bc32595f",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "glass_kit-4.0.2.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/glob-2.2.0.tar.gz",
         "sha256": "218aeb56050c714f62a3182775320dfa04602b55074873e24e31bbd39bda96fb",
         "strip-components": 0,
