@@ -16,16 +16,30 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/a2ui_core-0.1.1.tar.gz",
-        "sha256": "81cd97d82d58719e68856e901b8e8cae45be201ed7b1f9a0c9ba79226dc87208",
+        "url": "https://pub.dev/api/archives/a2ui_core-0.7.0.tar.gz",
+        "sha256": "b55874f4e4eef078fb8548e7f271e21e72c6e8ee49a67a0816a6c150dd016b0c",
         "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/a2ui_core-0.1.1"
+        "dest": ".pub-cache/hosted/pub.dev/a2ui_core-0.7.0"
     },
     {
         "type": "inline",
-        "contents": "81cd97d82d58719e68856e901b8e8cae45be201ed7b1f9a0c9ba79226dc87208",
+        "contents": "b55874f4e4eef078fb8548e7f271e21e72c6e8ee49a67a0816a6c150dd016b0c",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "a2ui_core-0.1.1.sha256"
+        "dest-filename": "a2ui_core-0.7.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/a2ui_flutter-0.3.0.tar.gz",
+        "sha256": "8c754631872181be743873851686b0260558b34dac71ce647cc4bdbda7c65ad7",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/a2ui_flutter-0.3.0"
+    },
+    {
+        "type": "inline",
+        "contents": "8c754631872181be743873851686b0260558b34dac71ce647cc4bdbda7c65ad7",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "a2ui_flutter-0.3.0.sha256"
     },
     {
         "type": "archive",
@@ -166,104 +180,6 @@
         "contents": "2b7fff16a552486d078bfc09a8cde19f426dc6d6329262b684182597bec5b1ac",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "audio_session-0.1.25.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers-6.8.1.tar.gz",
-        "sha256": "2ba4bb2944baacbdd5372ff8254a8e7feb8c10d7739545e392f5605a8f618745",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers-6.8.1"
-    },
-    {
-        "type": "inline",
-        "contents": "2ba4bb2944baacbdd5372ff8254a8e7feb8c10d7739545e392f5605a8f618745",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers-6.8.1.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_android-5.3.0.tar.gz",
-        "sha256": "f5ff5b15620fbab8cb0849e9636c48e2b96c3f0f71723bbbe2ad3c761b205f05",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_android-5.3.0"
-    },
-    {
-        "type": "inline",
-        "contents": "f5ff5b15620fbab8cb0849e9636c48e2b96c3f0f71723bbbe2ad3c761b205f05",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_android-5.3.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_darwin-6.5.0.tar.gz",
-        "sha256": "1ca553add991384ecf421b9569da850f3ab2472ffb83f6970b0416365abc51be",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_darwin-6.5.0"
-    },
-    {
-        "type": "inline",
-        "contents": "1ca553add991384ecf421b9569da850f3ab2472ffb83f6970b0416365abc51be",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_darwin-6.5.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_linux-4.3.0.tar.gz",
-        "sha256": "15178b726b7cdee5364d0463c8d445630c4e0fb7d26612b73c767e7d25de9417",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_linux-4.3.0"
-    },
-    {
-        "type": "inline",
-        "contents": "15178b726b7cdee5364d0463c8d445630c4e0fb7d26612b73c767e7d25de9417",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_linux-4.3.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_platform_interface-7.2.0.tar.gz",
-        "sha256": "765f6f0e6dca55cb471c9483fc77700564b3484d19198aca4ebb5147c6c85acb",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_platform_interface-7.2.0"
-    },
-    {
-        "type": "inline",
-        "contents": "765f6f0e6dca55cb471c9483fc77700564b3484d19198aca4ebb5147c6c85acb",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_platform_interface-7.2.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_web-5.3.0.tar.gz",
-        "sha256": "ae1e0103c865a03e273f6d13d97b93f5595eac09915729cd5e37ef96e2857319",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_web-5.3.0"
-    },
-    {
-        "type": "inline",
-        "contents": "ae1e0103c865a03e273f6d13d97b93f5595eac09915729cd5e37ef96e2857319",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_web-5.3.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/audioplayers_windows-4.4.1.tar.gz",
-        "sha256": "a70ae82bba2dfcb6eb03dd4815d737a2d46d33ea5a96a03f535cfcaac490e413",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/audioplayers_windows-4.4.1"
-    },
-    {
-        "type": "inline",
-        "contents": "a70ae82bba2dfcb6eb03dd4815d737a2d46d33ea5a96a03f535cfcaac490e413",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "audioplayers_windows-4.4.1.sha256"
     },
     {
         "type": "archive",
@@ -1876,20 +1792,6 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/flutter_markdown_plus-1.0.12.tar.gz",
-        "sha256": "fce641d6c2106cc495de1cd603f97a4f9d615a97a64011928ded380dbdade935",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/flutter_markdown_plus-1.0.12"
-    },
-    {
-        "type": "inline",
-        "contents": "fce641d6c2106cc495de1cd603f97a4f9d615a97a64011928ded380dbdade935",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "flutter_markdown_plus-1.0.12.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/flutter_native_splash-2.4.8.tar.gz",
         "sha256": "9db4b80b044e9af17cc4b1272137fc7ace0054d879ef8210a76adc34aaf4cdff",
         "strip-components": 0,
@@ -2250,34 +2152,6 @@
         "contents": "f71e79840fe023a21f2f949771375444b6efcd34b9e625d5f4f5504971380a77",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "gal-2.3.3.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/genai_primitives-0.2.4.tar.gz",
-        "sha256": "5a1e8c7ae9caf01aa609f59c54de47b73f51bf1ae95e0f679b7c7ab6948c4d9d",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/genai_primitives-0.2.4"
-    },
-    {
-        "type": "inline",
-        "contents": "5a1e8c7ae9caf01aa609f59c54de47b73f51bf1ae95e0f679b7c7ab6948c4d9d",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "genai_primitives-0.2.4.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/genui-0.10.4.tar.gz",
-        "sha256": "fa7e0c78e813fe9f4929e5ab361e660bdb4de03a75ae4ffc81a96dff2246d67d",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/genui-0.10.4"
-    },
-    {
-        "type": "inline",
-        "contents": "fa7e0c78e813fe9f4929e5ab361e660bdb4de03a75ae4ffc81a96dff2246d67d",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "genui-0.10.4.sha256"
     },
     {
         "type": "archive",
@@ -5777,20 +5651,6 @@
         "contents": "9f3c00be2ef9b76a95d94ac5119fb843dca6f2c69e6c9968f6f2b6c9e7afbdeb",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "video_player_web-2.4.0.sha256"
-    },
-    {
-        "type": "archive",
-        "archive-type": "tar-gzip",
-        "url": "https://pub.dev/api/archives/video_player_win-3.3.1.tar.gz",
-        "sha256": "1616be414376aa142ca1b6360f5e1de2568c479bb14bed3d8e5011d92b112a8c",
-        "strip-components": 0,
-        "dest": ".pub-cache/hosted/pub.dev/video_player_win-3.3.1"
-    },
-    {
-        "type": "inline",
-        "contents": "1616be414376aa142ca1b6360f5e1de2568c479bb14bed3d8e5011d92b112a8c",
-        "dest": ".pub-cache/hosted-hashes/pub.dev",
-        "dest-filename": "video_player_win-3.3.1.sha256"
     },
     {
         "type": "archive",
