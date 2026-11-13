@@ -16,6 +16,20 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/a2ui_agent-0.3.0.tar.gz",
+        "sha256": "4992866d816c7fa13d73d053a7e3206c65bbb2c37ad6bf869d059e1a625159e7",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/a2ui_agent-0.3.0"
+    },
+    {
+        "type": "inline",
+        "contents": "4992866d816c7fa13d73d053a7e3206c65bbb2c37ad6bf869d059e1a625159e7",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "a2ui_agent-0.3.0.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/a2ui_core-0.7.0.tar.gz",
         "sha256": "b55874f4e4eef078fb8548e7f271e21e72c6e8ee49a67a0816a6c150dd016b0c",
         "strip-components": 0,
@@ -96,6 +110,20 @@
         "contents": "50e982d500bc863e1d703448afdbf9e5a72eb48840a4f766fa361ffd6877055f",
         "dest": ".pub-cache/hosted-hashes/pub.dev",
         "dest-filename": "ansicolor-2.0.3.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/antlr4-4.13.2.tar.gz",
+        "sha256": "752b4a6e4ad97953652a2b2bbf5377f46c94b579d3372b50080c7e5858234a05",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/antlr4-4.13.2"
+    },
+    {
+        "type": "inline",
+        "contents": "752b4a6e4ad97953652a2b2bbf5377f46c94b579d3372b50080c7e5858234a05",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "antlr4-4.13.2.sha256"
     },
     {
         "type": "archive",
