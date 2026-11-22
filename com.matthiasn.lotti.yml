@@ -92,19 +92,17 @@ modules:
     buildsystem: simple
     build-commands:
       - install -d /app/lib /app/include
-      - cp -a lib/. /app/lib/
-      - cp -a include/. /app/include/
+      - "case \"$FLATPAK_ARCH\" in\n  x86_64) arch=x64 ;;\n  aarch64) arch=arm64 ;;\n\
+        \  *) echo \"unsupported arch $FLATPAK_ARCH\" >&2; exit 1 ;;\nesac\ncp -a\
+        \ \"runtimes/linux-$arch/native/.\" /app/lib/\n"
+      - ln -sf libonnxruntime.so /app/lib/libonnxruntime.so.1
+      - cp -a build/native/include/. /app/include/
     sources:
       - type: archive
-        only-arches:
-          - x86_64
-        url: https://github.com/microsoft/onnxruntime/releases/download/v1.27.0/onnxruntime-linux-x64-1.27.0.tgz
-        sha256: 547e40a48f1fe73e3f812d7c88a948612c23f896b91e4e2ee1e232d7b468246f
-      - type: archive
-        only-arches:
-          - aarch64
-        url: https://github.com/microsoft/onnxruntime/releases/download/v1.27.0/onnxruntime-linux-aarch64-1.27.0.tgz
-        sha256: 3e4d83ac06924a32a07b6d7f91ce6f852876153fc0bbdf931bf517a140bfbe48
+        archive-type: zip
+        strip-components: 0
+        url: https://api.nuget.org/v3-flatcontainer/microsoft.ml.onnxruntime/1.27.0/microsoft.ml.onnxruntime.1.27.0.nupkg
+        sha256: c725e8cefdfe4de08befb9f79b3f218c162439cdcdb97cbbb5192888d58ea669
   - name: lotti
     buildsystem: simple
     build-options:
@@ -133,7 +131,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/matthiasn/lotti
-        commit: b7f55c549f7838789fbcd17d49185b023a56ee36
+        commit: e670b417d1717dade9a3dc9f3acbff00e192d30a
         disable-lfs: true
       - type: script
         dest-filename: lotti-wrapper.sh
